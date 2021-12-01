@@ -185,9 +185,9 @@ https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:1 tvg-id="Number1Turk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8c209aef-5802-4649-9dd6-d3ab7cd96974.png" group-title="Müzik",Number 1 Türk
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a2a2c267-f41c-4825-aa80-6d1077e43b1f.png" group-title="Müzik",Kral TV
-https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1f08b8a5-6d69-4260-a003-be0eed42532f.png" group-title="Müzik",Kral Pop TV
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6d1a326f-0a00-4f74-87f8-975a599c757b.png" group-title="Müzik",Milyon TV
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/862d8b5b-5d5a-4816-9dc6-0f567e4db201.png" group-title="Müzik",Tatlıses TV
@@ -200,8 +200,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67ch8g
 #EXTINF:1 tvg-id="Number1Dance.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/46abd377-46f9-4ffa-8634-6bd9efb7e35d.png" group-title="Müzik",Number 1 Dance
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67chco
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f555981a-a0d8-4008-9a8e-6f3e6b14dc02.png" group-title="Müzik",Filodi
-https://umt02.videobulut.com/35/3811/8wj1R4EsGjT7/8wj1R4EsGjT7.mpd
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/998ef09b-a2bb-4bed-a281-889106047c70.png" group-title="Müzik-2",Arabesk TV
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
@@ -233,6 +231,8 @@ http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
 http://fidece38941.ozelip.com:2052/genckraltv/genckraltv/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eab96d15-0274-4e03-86cd-7f85126128c9.png" group-title="Müzik-2",Gidon TV
 http://tv56245.ozelip.com:2052/tvgidon/tvgidon/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/30ae2814-d8f9-4e58-9d66-ac1f79a9f763.png" group-title="Müzik-2",Karadeniz Akustik TV
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=fjAO71JTiwY
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/04a1e67b-ac2c-4428-b410-d91edbe4b0e6.png" group-title="Müzik-2",Koç TV
 https://59cba4d34b678.streamlock.net/canlitv/koc-tv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6738d7e2-2efa-43f9-a5e1-e23e8c30e9f6.png" group-title="Müzik-2",Lugat TV
@@ -280,16 +280,16 @@ https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
 http://91.236.251.50:8090/play/a01p
 #EXTINF:1 tvg-id="DisneyChannelTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/74f2d8a4-9ba4-459e-a20a-27bd54ffc3a2.png" group-title="Çocuk",Disney Channel
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d219a6d0-7522-47ef-baa9-26f742ec4035.png" group-title="Çocuk",Sevgim Çiçeği TV
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/96380477-ee85-4c6a-8540-519d53850eb4.png" group-title="Çocuk",Sevgim Çiçeği TV
 https://5be5d840359c6.streamlock.net/sevgicicegi/sevgicicegi/chunklist_w988948456.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" group-title="Çocuk",blutv Kids
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0960dc8-3554-4633-9bdc-8f8110aedfcd.png" group-title="Çocuk",Niloya TV
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/c9c0be90-c147-478a-a0c5-db5cdd3a076f.png" group-title="Çocuk",Niloya TV
 https://nilotv.ozelip.com:3665/multi_web/play.m3u8
 
 
 #EXTINF:1 tvg-id="DiyanetTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/25484f25-45a3-4176-be76-4113f788c577.png" group-title="Dini",Diyanet TV
-http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/mkYeDpwLkTAGy_0.m3u8
 #EXTINF:1 tvg-id="MeltemTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bdcd9a84-8d7c-4ada-9248-792599c8c7c1.png" group-title="Dini",Meltem TV
 https://livesx.canlitv.center/meltemtv.m3u8
 #EXTINF:1 tvg-id="SemerkandTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e977fc50-197c-48c8-ae71-d7e12195eb5e.png" group-title="Dini",Semerkand TV
@@ -413,6 +413,8 @@ https://5be5d840359c6.streamlock.net/askontv/askontv/chunklist_w247491047.m3u8
 https://broadcasttr.com:446/kayseriosb/bant1/chunklist_w1586814739.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2bb7fe68-8f7e-4c62-bad4-d629eb5b0958.png" group-title="Kurumlar",Türsab TV
 https://tursab.ma.doracdn.com/tursab-live_abr/tursab/tursab-live/tursab_1080p/chunks.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/156fcb77-e986-43c0-a235-cf280feaad6d.png" group-title="Kurumlar",Ege Üniversitesi TV
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCWAeuqIK5u3-S5L1HPFV3vA/live
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4a62b514-7f2c-4bbb-912e-173a5f4857f2.png" group-title="Kurumlar",Üsküdar Üniversitesi TV
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4a62b514-7f2c-4bbb-912e-173a5f4857f2.png" group-title="Kurumlar",Üsküdar Üniversitesi TV2
