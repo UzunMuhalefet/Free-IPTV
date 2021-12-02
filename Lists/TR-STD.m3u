@@ -395,6 +395,8 @@ http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 https://host.onlineradyotv.net:1936/intisadtv/ngrp:intisadtv_all/chunklist_w1451397178_b1596000.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/86e786b1-c536-465d-8994-5c0c3caf4439.png" group-title="Kurumlar",Marmaris Web TV
 https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d8c40159-7837-402d-a4af-492c3405200e.png" group-title="Kurumlar",Ordu BB TV
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dee81925-cedf-4cd7-b4f8-9ddebaa4b2a2.png" group-title="Kurumlar",Sarıyer TV
 http://s01.vpis.io/sariyer/sariyer.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eaab942d-e4a0-4c9a-97af-1920a4c904ec.png" group-title="Kurumlar",Sivas Belediyesi Web TV
@@ -495,7 +497,7 @@ http://cdn1-tr2tv.yayin.com.tr/tr2tv/ngrp:tr2tv/chunklist_w1574130832_b1696000.m
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/842bbf3f-c593-42e2-b643-edc0b12a2d2f.png" group-title="Diğer",TR 6 TV
 http://live.arkumedia.com:1935/tr6tv/tr6tv/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/460d6d63-33ee-44f7-a314-9d3234eabffb.png" group-title="Diğer",Turkuvaz TV
-http://misket.tv:2020/anka-icin-test/fhoPny6SRC/5243
+http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f8f76812-e45f-471a-bbb0-dd5e9e86f6dc.png" group-title="Diğer",TV Adige
 http://145.239.37.125:20458/tvadige/tvadige/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/da31dd85-0126-4dcb-9270-18e0e7c2efbc.png" group-title="Diğer",TV Mor
@@ -748,6 +750,8 @@ https://s01.vpis.io/ogun/ogun.m3u8
 http://waw1.artiyerelmedya.net:1935/olayturk/bant1/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e8373c4c-05d2-4ea4-93c6-9e88c8502664.png" group-title="Yerel",On Medya
 http://live.arkumedia.com:1935/marmaratv/marmaratv/chunklist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3b08ffdc-ab63-4f42-8318-ed7036e43d80.png" group-title="Yerel",Ordu ORT TV
+https://broadcasttr.com:446/orttv/bant1/chunklist_w51470567.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ee91759d-fe46-4ff2-97e3-acfc3f62edd3.png" group-title="Yerel",Otağ TV
 https://59cba4d34b678.streamlock.net/canlitv/otagtv/chunklist_w1843270513.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f51367fd-8b8e-4012-8b51-da34b90ac9b9.png" group-title="Yerel",Öncü TV
