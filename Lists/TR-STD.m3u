@@ -6,9 +6,9 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:1 tvg-id="KanalD.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cf4d482-3dcb-4e21-b187-0f3985e80013.png" group-title="Ulusal",Kanal D
 http://93.157.62.180/KanalD/index.m3u8
 #EXTINF:1 tvg-id="FoxTurkiye.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e79397a0-ec34-41aa-97b5-9323f1296383.png" group-title="Ulusal",Fox TV
-https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p20000000kbps/index.m3u8
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3962b16-26f7-4e71-a107-c45652bd5442.png" group-title="Ulusal",Show TV
-https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
+http://93.157.62.180/ShowTV/index.m3u8
 #EXTINF:1 tvg-id="BeyazTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/19caa45e-9f6e-489f-a86c-2dec06012d86.png" group-title="Ulusal",Beyaz TV
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Ulusal",Kanal 7
