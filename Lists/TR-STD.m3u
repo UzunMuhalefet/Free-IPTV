@@ -762,6 +762,8 @@ https://ankara.tvizlehd.com/live/pamukkaletv.m3u8
 https://cdn-refahiye24tv.yayin.com.tr/refahiye24tv/refahiye24tv/chunklist_w298255168.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a1250095-5113-4a13-b0eb-ff0569d599f4.png" group-title="Yerel",Rize TV
 https://cdn1-rizetv.yayin.com.tr/rizetv/ngrp:rizetv/chunklist_w1598162672_b1796000.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bd111438-370d-412d-8ee0-60e4182852ea.png" group-title="Yerel",RTV 66 Yozgat
+https://59cba4d34b678.streamlock.net/canlitv/rtv66/chunklist_w899917671.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/702f3e0a-620a-4e22-9fed-d3fed64726a2.png" group-title="Yerel",Ruha TV Urfa
 http://51.15.183.200:1935/ruha/ruha/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2fbd1e2d-5763-4bf6-ad3e-41747f216cfc.png" group-title="Yerel",Rumeli TV
