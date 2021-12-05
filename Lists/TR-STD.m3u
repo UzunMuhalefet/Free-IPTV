@@ -612,6 +612,8 @@ http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/duzcetv/chunklist_w1290797849.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dcd4304f-75df-4913-a660-589bf9331f74.png" group-title="Yerel",Edessa TV Şanlıurfa
 http://185.87.252.44:4343/hls/edessatv.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0ca9b4ad-b606-4892-b9f2-d264213d4ade.png" group-title="Yerel",Edirne TV
+https://tna5.bozztv.com/edirnetv/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cc03ce99-53f4-45dc-917f-d9a64111cac9.png" group-title="Yerel",Ege Live
 https://59cba4d34b678.streamlock.net/canlitv/egelivetv/chunklist_w792055843.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eba699de-8d55-457a-b10b-0d8e10bc9a5f.png" group-title="Yerel",Ege Türk
