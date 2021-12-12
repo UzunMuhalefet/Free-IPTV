@@ -665,7 +665,7 @@ http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1f293913-61b0-424f-b648-f0ae3937b801.png" group-title="Yerel",HRT Akdeniz
 https://ankara.tvizlehd.com/live/hrttv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d604615e-26cd-493b-aa5d-c69bd2bd4918.png" group-title="Yerel",Hunat TV
-https://59cba4d34b678.streamlock.net/canlitv/hunattv/chunklist.m3u8
+https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf6b95a5-b675-49b3-9b79-62a1818d662a.png" group-title="Yerel",Hür TV
 https://5be5d840359c6.streamlock.net/hurtv/hurtv/chunklist_w1991560666.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5298ec26-1953-408a-b29a-e73b8918aa7e.png" group-title="Yerel",İçel TV
@@ -878,6 +878,8 @@ http://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/ngrp:kanalistanbultv/ch
 http://fidece38941.ozelip.com:2052/kesteltv/kesteltv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0ff2c160-891b-4839-b023-31e1b4435a47.gif" group-title="Özel",Misket TV
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/99a5c4d7-3f86-44e8-8a90-57f348faed66.png" group-title="Özel",Özburun TV
+https://live-server-2.splitstream.io/6820ecfe-70c9-46e5-adb4-26e72809c302/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8c8dde60-9cbd-4dd5-acf7-8aa12ccc2a33.png" group-title="Özel",Super Türk TV
 http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title="Özel",Şaban TV
