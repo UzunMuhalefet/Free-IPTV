@@ -22,7 +22,7 @@ http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
 #EXTINF:1 tvg-id="TV100.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e9bd1848-30e3-4798-bc39-a35b611771ba.png" group-title="Ulusal",TV100
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:1 tvg-id="TRTTurk.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title="Ulusal",TRT Türk
-http://103.194.169.171:8282/TR:_TRT_TURK_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="TRTAvaz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6663b40a-3ea0-426d-a901-7dd6d56c9e2c.png" group-title="Ulusal",TRT Avaz
 http://185.129.1.242:80/trtavaz/mpegts
 #EXTINF:1 tvg-id="TRTAvaz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6663b40a-3ea0-426d-a901-7dd6d56c9e2c.png" group-title="Ulusal",TRT Avaz Int
@@ -150,7 +150,7 @@ http://93.157.62.180/KanalDDrama/index.m3u8
 http://93.157.62.180/TDC/index.m3u8
 
 #EXTINF:1 tvg-id="TRTSpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5bab51c5-0efb-49a8-9dc0-8f3fdd85eec8.png" group-title="Spor",TRT Spor
-http://103.194.169.171:8282/TR:_TRT_SPOR_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:1 tvg-id="TRTSporYildiz.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/06ce3106-3fdb-4703-bc19-51ace99098a4.png" group-title="Spor",TRT Spor Yıldız
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:1 tvg-id="ASpor.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/07d2ecfd-cddf-47c7-8e77-d16a7dab72f6.png" group-title="Spor",A Spor
@@ -254,7 +254,7 @@ http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 
 
 #EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c083b7-efe3-4133-89ba-10c503d69d84.png" group-title="Belgesel",TRT Belgesel
-http://103.194.169.171:8282/TR:_TRT_BELGESEL_FHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/c8ede3b2-ed24-499c-9b6f-0c32317b2bde.png" group-title="Belgesel",TGRT Belgesel
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
 #EXTINF:1 tvg-id="Yaban.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cb404d1-3d4a-454e-9064-cc51b747b4df.png" group-title="Belgesel",Yaban TV
