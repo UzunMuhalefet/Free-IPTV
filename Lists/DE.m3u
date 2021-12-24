@@ -1,0 +1,200 @@
+#EXTM3U
+#EXTINF:1 tvg-id="123TV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/123tv.default.png" group-title="Germany",123 TV
+http://194.76.186.77:8090/play/a00b
+#EXTINF:1 tvg-id="3sat.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/3sat-de.png" group-title="Germany",3sat
+http://194.76.186.77:8090/play/a03x
+#EXTINF:1 tvg-id="AnixeHDSerie.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hd/anixe-hd-serie-de.png" group-title="Germany",Anixe HD Serie
+http://194.76.186.77:8090/play/a01h
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/anixe-plus-de.png" group-title="Germany",Anixe +
+http://80.151.59.124:8000/play/a07v
+#EXTINF:1 tvg-id="ARDAlpha.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ard-alpha-de.png" group-title="Germany",ARD Alpha
+http://80.151.59.124:8000/play/a09y
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/Aristo%20TV.png" group-title="Germany",Aristo TV
+http://109.122.68.51:4000/play/a04e
+#EXTINF:1 tvg-id="ARTEDeutsch.fr" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/arte-de.png" group-title="Germany",ARTE Deutsch
+http://194.76.186.77:8090/play/a00w
+#EXTINF:1 tvg-id="AstroTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/AstroTV.svg" group-title="Germany",Astro TV
+http://80.151.59.124:8000/play/a085
+#EXTINF:1 tvg-id="AugsburgTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/augsburgtvhd.default.svg" group-title="Germany",Augsburg TV
+https://stream02.stream.welocal.world/stream/fhd-augsburgtv_104951/ngrp:stream_all/chunklist_w1954385360_b3628000.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/badentv.default.png" group-title="Germany",Baden TV
+http://109.122.68.51:4000/play/a06s
+#EXTINF:1 tvg-id="BayerischesFernsehenSud.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/br-fernsehen-alt-de.png" group-title="Germany",BR Fernsehen
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master_1920p_5128.m3u8
+#EXTINF:1 tvg-id="BibelTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/bibel-tv-de.png" group-title="Germany",Bibel TV
+http://80.151.59.124:8000/play/a08t
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/bibel-tv-de.png" group-title="Germany",Bibel TV Impuls
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/bibel-tv-de.png" group-title="Germany",Bibel TV Musik
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:1 tvg-id="Channel21.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/channel-21-de.png" group-title="Germany",Channel21
+http://194.76.186.77:8090/play/a00j
+#EXTINF:1 tvg-id="ComedyCentralDeutschland.us" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/comedy-central-de.png" group-title="Germany",Comedy Central
+http://194.76.186.77:8090/play/a01k
+#EXTINF:1 tvg-id="DasErste.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/das-erste-de.png" group-title="Germany",Das Erste
+https://mcdn.daserste.de/daserste/int/master_3328.m3u8
+#EXTINF:1 tvg-id="DeluxeMusic.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/deluxe-music-de.png" group-title="Germany",Deluxe Music
+http://194.76.186.77:8090/play/a00c
+#EXTINF:1 tvg-id="DeutschesMusikFernsehen.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/deutsches-musik-fernsehen-de.png" group-title="Germany",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:1 tvg-id="DisneyChannelDeutschland.us" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/disney-channel-de.png" group-title="Germany",Disney Channel
+http://194.76.186.77:8090/play/a009
+#EXTINF:1 tvg-id="DMAXDeutschland.us" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/dmax-de.png" group-title="Germany",DMAX
+http://194.76.186.77:8090/play/a011
+#EXTINF:1 tvg-id="DWDeutsch.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/dw-de.png" group-title="Germany",DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+#EXTINF:1 tvg-id="DWDeutschPlus.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/dw-de.png" group-title="Germany",DW Deutsch +
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/eo-tv-de.png" group-title="Germany",eotv
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist_w450545089.m3u8?ref=eotv.de
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/ewtn.default.svg" group-title="Germany",EWTN Catholic
+http://5.39.189.113:7000/play/a0la
+#EXTINF:1 tvg-id="Folx.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/folx-music-television-de.png" group-title="Germany",FOLX Music
+https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+#EXTINF:1 tvg-id="FrankenFernsehen.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/frankenfernsehen.default.svg" group-title="Germany",Franken Fernsehen
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/chunks.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/geniusexklusiv.default.png" group-title="Germany",Genius Exklusiv
+http://109.122.68.51:4000/play/a04z
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/geniusplustv.default.png" group-title="Germany",Genius Plus
+http://194.76.186.77:8090/play/a01n
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/handystar.default.svg" group-title="Germany",Handystar TV
+http://194.76.186.77:8090/play/a00h
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/health-tv-de.png" group-title="Germany",Health TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:1 tvg-id="HRFernsehen.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/hr-de.png" group-title="Germany",hr-fernsehen
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/master-1080.m3u8
+#EXTINF:1 tvg-id="HSE.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hse24.default.svg" group-title="Germany",HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+#EXTINF:1 tvg-id="HSEExtra.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hse24extra.default.svg" group-title="Germany",HSE Extra
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/master_1080p25.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hse24trend.default.svg" group-title="Germany",HSE Trend
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/master_576_1p25.m3u8
+#EXTINF:1 tvg-id="Juwelo.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/juwelo.default.svg" group-title="Germany",Juwelo TV
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/26410621649_2112_18330video_720.m3u8
+#EXTINF:1 tvg-id="KabelEinsDeutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/kabel-eins-de.png" group-title="Germany",Kabel Eins
+http://194.76.186.77:8090/play/a00r
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/kabel-eins-doku-de.png" group-title="Germany",Kabel Eins Doku
+http://194.76.186.77:8090/play/a00u
+#EXTINF:1 tvg-id="KIKA.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/kika-de.png" group-title="Germany",KIKA
+http://194.76.186.77:8090/play/a03y
+#EXTINF:1 tvg-id="LTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/ltv.default.svg" group-title="Germany",LTV
+https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8
+#EXTINF:1 tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/mdr-de.png" group-title="Germany",MDR Thüringen
+http://80.151.59.124:8000/play/a05c
+#EXTINF:1 tvg-id="MTVGermany.us" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/mtv-de.png" group-title="Germany",MTV Germany
+http://109.122.68.51:4000/play/a06a
+#EXTINF:1 tvg-id="MunchenTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/munchentv.default.svg" group-title="Germany",Munchen TV
+https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_all/chunklist_w247607545_b3628000.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/n24-doku-de.png" group-title="Germany",N24 Doku
+http://109.122.68.51:4000/play/a06c
+#EXTINF:1 tvg-id="NDRFernsehenHamburg.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ndr-de.png" group-title="Germany",NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ndr-de.png" group-title="Germany",NDR International
+https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/master.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ndr-de.png" group-title="Germany",NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:1 tvg-id="NDRFernsehenNiedersachsen.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ndr-de.png" group-title="Germany",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ndr-de.png" group-title="Germany",NDR Schleswig Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ndr-de.png" group-title="Germany",NDR Weltweiter
+https://ndrfs-lh.akamaihd.net/i/ndrfs_ww@430235/master.m3u8
+#EXTINF:1 tvg-id="NickelodeonDeutschland.us" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ndr-de.png" group-title="Germany",Nickeledon Germany
+http://109.122.68.51:4000/play/a06b
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/donautv_isartv_trp1.default.svg" group-title="Germany",Niederbayern TV Deggendorf - Straubing
+https://donautv.iptv-playoutcenter.de/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/donautv_isartv_trp1.default.svg" group-title="Germany",Niederbayern TV Landshut
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/nitro-de.png" group-title="Germany",Nitro TV
+http://194.76.186.77:8090/play/a01x
+#EXTINF:1 tvg-id="NTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/ntv-de.png" group-title="Germany",ntv
+http://194.76.186.77:8090/play/a01a
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/oberpfalztv.default.svg" group-title="Germany",Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:1 tvg-id="One.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/one-de.png" group-title="Germany",One
+http://194.76.186.77:8090/play/a042
+#EXTINF:1 tvg-id="PearlTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/one-de.png" group-title="Germany",Pearl TV
+http://109.122.68.51:4000/play/a05a
+#EXTINF:1 tvg-id="ProSiebenDeutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/pro-sieben-de.png" group-title="Germany",ProSieben
+http://80.151.59.124:8000/play/a04t
+#EXTINF:1 tvg-id="ProSiebenMaxxDeutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/pro-sieben-maxx-de.png" group-title="Germany",ProSieben Maxx
+http://80.151.59.124:8000/play/a09g
+#EXTINF:1 tvg-id="QVCDeutschland.us" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/qvc.default.svg" group-title="Germany", QVC
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/qvcstyle.default.svg" group-title="Germany", QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcde_primary_sdi7/live.m3u8?DVR
+#EXTINF:1 tvg-id="QVCZwei.us" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/qvczwei.default.svg" group-title="Germany", QVC Zwei
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:1 tvg-id="RegioTVSatellit.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/regiotv.default.svg" group-title="Germany",Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunks.m3u8
+#EXTINF:1 tvg-id="RegioTVSatellit.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/regiotv.default.svg" group-title="Germany",Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunks.m3u8
+#EXTINF:1 tvg-id="RFO.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/rfooberbayern.default.svg" group-title="Germany",RFO
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/chunklist_w1534883117_b3628000.m3u8
+#EXTINF:1 tvg-id="RheinMainTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/rheinmaintv.default.svg" group-title="Germany",Rheinmain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist_w1984098010.m3u8
+#EXTINF:1 tvg-id="RTLDeutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/rtl-de.png" group-title="Germany",RTL
+https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
+#EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/rtl-zwei-de.png" group-title="Germany",RTL Zwei
+http://194.76.186.77:8090/play/a01b
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/rtlwest.default.png" group-title="Germany",RTL West
+https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/rtl-up-de.png" group-title="Germany",RTL UP
+http://80.151.59.124:8000/play/a08s
+#EXTINF:1 tvg-id="Sat1Deutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sat-1-de.png" group-title="Germany",SAT.1
+http://194.76.186.77:8090/play/a00p
+#EXTINF:1 tvg-id="ServusTVDeutschland.at" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/servus-tv-deutchland-de.png" group-title="Germany",Servus TV
+http://188.155.8.185:3280/play/a02t/index.m3u8
+#EXTINF:1 tvg-id="SixxDeutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sixx-de.png" group-title="Germany",SIXX
+http://194.76.186.77:8090/play/a00s
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sonnenklar-tv-de.png" group-title="Germany",Sonnenklar TV
+http://euvia-live.hls.adaptive.level3.net/ses/euvia/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/sophiatv.default.png" group-title="Germany",Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:1 tvg-id="Sport1.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sport1-de.png" group-title="Germany",Sport 1
+http://194.76.186.77:8090/play/a00e
+#EXTINF:1 tvg-id="SRFernsehen.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/sr-fernsehen-de.png" group-title="Germany",SR Fernsehen
+http://194.76.186.77:8090/play/a044
+#EXTINF:1 tvg-id="SuperRTLDeutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/super-rtl-de.png" group-title="Germany",Super RTL
+http://194.76.186.77:8090/play/a01w
+#EXTINF:1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/swr-de.png" group-title="Germany",SWR Baden-Württemberg
+http://194.76.186.77:8090/play/a00x
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/swr-de.png" group-title="Germany",SWR RP
+http://194.76.186.77:8090/play/a00y
+#EXTINF:1 tvg-id="Tagesschau24.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/tagesschau24-de.png" group-title="Germany",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:1 tvg-id="Tele5.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/tele-5-de.png" group-title="Germany",TELE5
+http://194.76.186.77:8090/play/a010
+#EXTINF:1 tvg-id="TLCGermany.us" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/tlc-de.png" group-title="Germany",TLC Germany
+http://194.76.186.77:8090/play/a00f
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/toggo-plus-de.png" group-title="Germany",TOGGO Plus
+http://213.30.29.171:8000/play/a05b
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tvmainfranken.default.png" group-title="Germany",TV Mainfranken
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:1 tvg-id="TVOberfranken.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tvoberfranken.default.svg" group-title="Germany",TV Oberfranken
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:1 tvg-id="TVAOstbayern.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tva.default.png" group-title="Germany",TVA Ostbayern
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:1 tvg-id="VoxDeutschland.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/vox-de.png" group-title="Germany",VOX
+http://194.76.186.77:8090/play/a019
+#EXTINF:1 tvg-id="WDRFernsehenKoln.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/wdr-de.png" group-title="Germany",WDR 
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8
+#EXTINF:1 tvg-id="Welt.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/welt-de.png" group-title="Germany",Welt
+http://194.76.186.77:8090/play/a01l
+#EXTINF:1 tvg-id="WeltderWunderTV.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/welt-der-wunder-de.png" group-title="Germany",Welt der Wunder
+https://7a3035467ac8.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.248654862284.channel.CXJjpBZsIOzL.m3u8
+#EXTINF:1 tvg-id="ZDF.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/zdf-de.png" group-title="Germany",ZDF
+http://194.76.186.77:8090/play/a015
+#EXTINF:1 tvg-id="ZDFInfo.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/zdf-info-de.png" group-title="Germany",ZDF Info
+http://194.76.186.77:8090/play/a03z
+#EXTINF:1 tvg-id="ZDFNeo.de" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/germany/zdf-neo-de.png" group-title="Germany",ZDF Neo
+http://194.76.186.77:8090/play/a016
+
+
+
+
+
+
+
+
+
