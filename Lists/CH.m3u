@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/canal9kanal9.default.png" group-title="Switzerland",Canal 9
+https://edge14.vedge.infomaniak.com/livecast/ik:livesd2/chunklist_w123510975.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/canal9kanal9.default.png" group-title="Switzerland",Canal 9 Français
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/canalalphahd.default.png" group-title="Switzerland",Canal Alpha JU
+http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:1 tvg-id="DieNeueZeitTV.ch" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/dieneuezeit.default.svg" group-title="Switzerland",Die Neue Zeit TV
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/dieutv.default.svg" group-title="Switzerland",Dieu TV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/latelehd.default.svg" group-title="Switzerland",La Tele
+https://latele2.vedge.infomaniak.com/livecast/latele2/chunklist_w668379399.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/lfmtv.default.svg" group-title="Switzerland",LFM TV
+https://lfmmd.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/M6.svg" group-title="Switzerland",M6
+http://188.155.8.185:3280/play/a04h/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/MeteonewsTV_logo.png/1200px-MeteonewsTV_logo.png" group-title="Switzerland",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Logo_Radio3i.png/revision/latest?cb=20181022191650" group-title="Switzerland",Radio 3i
+https://livestream.gruppocdt.ch/hls/radio3i.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Radio_Pilatus_logo.svg" group-title="Switzerland",Radio Pilatus
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:1 tvg-id="RTS1.ch" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/RTS%201%20CH.svg" group-title="Switzerland",RTS 1
+http://188.155.8.185:3280/play/a04k/index.m3u8
+#EXTINF:1 tvg-id="RTS2.ch" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/RTS%202.svg" group-title="Switzerland",RTS 2
+http://188.155.8.185:3280/play/a04l/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/rougetv.default.svg" group-title="Switzerland",Rouge TV
+https://event.vedge.infomaniak.com/livecast/event.stream/chunklist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/schweiz5.default.svg" group-title="Switzerland",Schweiz 5
+https://stream.schweiz5.ch/schweiz52020/stream.m3u8
+#EXTINF:1 tvg-id="SRF1.ch" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/srf1.default.svg" group-title="Switzerland",SRF 1
+http://188.155.8.185:3280/play/a047/index.m3u8
+#EXTINF:1 tvg-id="SRFZwei.ch" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/srfzwei.default.svg" group-title="Switzerland",SRF Zwei
+http://188.155.8.185:3280/play/a048/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/Swiss%20Sport%20TV.svg" group-title="Switzerland",Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/Tele%201.svg" group-title="Switzerland",Tele 1
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_xias5bqq/tl/main/st/0/t/EjtPy5XqRLICzo6ldkTW9w/index-s32.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/telebarn.default.svg" group-title="Switzerland",Telebarn
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_obr1n222/tl/main/st/0/t/_O-oCNON5VqA2aG8WYVDeg/index-s32.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/telebasel.default.png" group-title="Switzerland",Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/Teleticino.svg" group-title="Switzerland",Teleticino
+https://livestream.gruppocdt.ch/hls/teleticino_360p/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/telezuri.default.svg" group-title="Switzerland",Telezüri
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_se36k3uk/tl/main/st/0/t/WBrfPA9txtU5iuPYBt6pjA/index-s32.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/TeleBielingue.svg" group-title="Switzerland",Tele Bielingue
+https://telebielinguech.vedge.infomaniak.com/livecast/telebielinguech/manifest.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/telem1.default.svg" group-title="Switzerland",Tele M1
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/TF1.svg" group-title="Switzerland",TF1 Suisse
+http://188.155.8.185:3280/play/a04e/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/TVM3.png" group-title="Switzerland",TVM3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/TV5Monde%20Europe.svg" group-title="Switzerland",TV5 Monde
+http://188.155.8.185:3280/play/a04i/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/TVO.svg" group-title="Switzerland",TV O
+https://klive.kaltura.com/env/cluster-1-a.live.nvp1/live/hls/p/1719221/e/1_t5h46v64/tl/main/st/0/t/pABgewKPiCnchxEl-FUtqQ/index-s32.m3u8
+
+
