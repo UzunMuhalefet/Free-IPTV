@@ -17,6 +17,8 @@ http://77.89.204.105:8001/play/a00y/index.m3u8
 http://77.89.204.105:8001/play/a00s/index.m3u8
 #EXTINF:1 tvg-id="ProGold.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/FUfKz4r.png" group-title="Romania",Pro Gold
 http://77.89.204.105:8001/play/a00x/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ZbyqFnf.png" group-title="Romania",Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:1 tvg-id="Antena1.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uz11Kwp.png" group-title="Romania",Antena 1
 http://77.89.204.105:8001/play/a00e/index.m3u8
 #EXTINF:1 tvg-id="AntenaStars.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/BmKHYUT.png" group-title="Romania",Antena Stars
@@ -25,6 +27,12 @@ http://77.89.204.105:8001/play/a00i/index.m3u8
 http://77.89.204.105:8001/play/a004/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/WEdRhOK.png" group-title="Romania",Antena Sport
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ekswnpv.png" group-title="Romania",Antena Comedy Play
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3PagCeF.png" group-title="Romania",Antena Cook&Play
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/vJ2SgyW.png" group-title="Romania",Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
 #EXTINF:1 tvg-id="HappyChannel.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6ZJdvuD.png" group-title="Romania",Happy Channel
 http://77.89.204.105:8001/play/a00g/index.m3u8
 #EXTINF:1 tvg-id="ZuTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ufx7Zy8.png" group-title="Romania",Zu TV
@@ -36,9 +44,13 @@ http://79.114.34.202:8000/play/a027
 #EXTINF:1 tvg-id="FavoritTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/OvqiCTa.png" group-title="Romania",Favorit TV
 http://77.89.204.105:8001/play/a00c/index.m3u8
 #EXTINF:1 tvg-id="PrimaTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/OJ3yWEh.png" group-title="Romania",Prima TV
-http://77.89.204.105:8001/play/a008/index.m3u8
+https://stream1.1616.ro:1945/prima/livestream/chunklist_w583626786.m3u8
 #EXTINF:1 tvg-id="LookSport.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ynrCo1w.png" group-title="Romania",LookSport
-http://79.114.34.202:8000/play/a03k
+https://stream1.1616.ro:1945/look/livestream/chunklist_w1064961763.m3u8
+#EXTINF:1 tvg-id="LookSport2.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/rCqkpyZ.png" group-title="Romania",LookSport 2
+https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w2082157965.m3u8
+#EXTINF:1 tvg-id="LookSport3.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/FNbzjMY.png" group-title="Romania",LookSport 3
+https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w1187299929.m3u8
 #EXTINF:1 tvg-id="AgroTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/4bdDayR.png" group-title="Romania",Agro TV
 http://79.114.34.202:8000/play/a026
 #EXTINF:1 tvg-id="ProfitTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/rFjHpbz.png" group-title="Romania",Profit News
@@ -62,11 +74,11 @@ http://89.38.8.130:39419
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/4QR02I5.png" group-title="Romania",Telestar1
 http://193.34.109.10:8090
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/pPwyaLz.png" group-title="Romania",Kapital TV
-http://79.114.34.202:8000/play/a05h
+https://netstreaming.eu:8080/hls/livestream.m3u8
 #EXTINF:1 tvg-id="NasulTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/bKxG8Vr.png" group-title="Romania",Nasul TV
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/chunklist_w1929281862.m3u8
 #EXTINF:1 tvg-id="IneditTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/MWBL9P9.png" group-title="Romania",Inedit TV
-http://79.114.34.202:8000/play/a01r
+http://edge8.imcr.ro:1359/live/myStream/playlist.m3u8
 #EXTINF:1 tvg-id="B1.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/maxoJwT.png" group-title="Romania",B1 TV
 https://stream.adunity.com/b1/b1.m3u8
 #EXTINF:1 tvg-id="RealitateaPlus.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/TjdeAPo.png" group-title="Romania",Realitatea Plus
@@ -78,7 +90,7 @@ https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
 #EXTINF:1 tvg-id="RomaniaTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/huOsW7H.png" group-title="Romania",RomaniaTV
 http://79.114.34.202:8000/play/a022
 #EXTINF:1 tvg-id="LookSportPlus.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/yic6o2Y.png" group-title="Romania",LookSport+
-http://79.114.34.202:8000/play/a01y
+https://stream1.1616.ro:1945/lookplus/livestream/chunklist_w926669352.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/B0FxZvI.png" group-title="Romania",Canal 33
 http://79.114.34.202:8000/play/a05s
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/GkNrKYh.png" group-title="Romania",CINETHRONIX
@@ -105,10 +117,18 @@ http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
 #EXTINF:1 tvg-id="TVRCraiova.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/OTNOvBa.png" group-title="Romania",TVR Craiova
 https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/chunklist_b4096000.m3u8
+#EXTINF:1 tvg-id="TVRTarguMures.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/3eccw5a.png" group-title="Romania",TVR Targu Mures
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/chunklist_b4096000.m3u8
+#EXTINF:1 tvg-id="TVRTimisoara.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Fe099Yz.png" group-title="Romania",TVR Timisoara
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="Romania",A7 TV
 https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 #EXTINF:1 tvg-id="AlephNews.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/FAD1IAe.png" group-title="Romania",Aleph News
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Y6CEGTx.png" group-title="Romania",Aleph Business
+https://stream-aleph.m.ro/Aleph/Alephbiz.stream/chunklist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/FAD1IAe.png" group-title="Romania",Aleph Smart TV
+https://stream-aleph.m.ro/Aleph/Smartv.stream/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/Tyrzwr2.png" group-title="Romania",Columna TV
 rtmp://columna1.arya.ro/live/columnatv1
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/qskVMhF.png" group-title="Romania",Light Channel
@@ -121,4 +141,37 @@ http://85.186.146.34:8080
 http://89.38.8.130:39443
 #EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uWSXlUl.png" group-title="Romania",VP TV
 http://89.38.8.130:39437
-
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/KPcKS3g.png" group-title="Romania",HD 365
+https://netstreaming.eu:8080/hls/hd365.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/MCKrtdv.png" group-title="Romania",Info HD
+https://netstreaming.eu:8080/hls/InfoHd.m3u8
+#EXTINF:1 tvg-id="BollywoodTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/CBURvfU.png" group-title="Romania",Bollywood HD
+http://79.114.34.202:8000/play/a05p
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/tdcCrNL.png" group-title="Romania",Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/5WYWRUc.png" group-title="Romania",Dibi TV
+http://82.76.210.127:1935/dibitv/live/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/MJL8Gfl.png" group-title="Romania",Impact TV
+http://online.tvimpact.live:8080/hls/impact_tv.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/0hNBul5.png" group-title="Romania",Iasi TV Life
+https://tv.streambox.ro/hls/itv/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/ximJYyU.png" group-title="Romania",Super TV Arges
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/d0yh1RB.png" group-title="Romania",Bucuresti TV
+http://89.38.8.130:39459
+#EXTINF:1 tvg-id="Digi24.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/y30Gyx3.png" group-title="Romania",Digi 24 HD
+https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/6cMbufT.png" group-title="Romania",Misa Senzational TV
+https://vid.misatv.ro:5050/LiveMSTV_Safe/livestream_720p/chunklist_w1550125020.m3u8
+#EXTINF:1 tvg-id="UTV.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/tGBpfTf.png" group-title="Romania",UTV
+https://cache2.multiscreen.moldtelecom.md/live/eds/utv_hd/HLSv3/utv_hd-avc1_3000000=3-mp4a_130400_ron=4.m3u8
+#EXTINF:1 tvg-id="MoozRo.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/5frYbq2.png" group-title="Romania",Mooz RO
+https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozro
+#EXTINF:1 tvg-id="MoozHits.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/7FCnvB9.png" group-title="Romania",Mooz Hits
+https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
+#EXTINF:1 tvg-id="MoozDance.ro" tvg-language="Romanian" tvg-logo="https://i.imgur.com/C0dN5vQ.png" group-title="Romania",Mooz Dance
+https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XSEfdRa.png" group-title="Romania",Qub TV
+https://live.djemba.ro/live/qubtvlive/chunklist_w1045349084.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/j2wJ0qX.png" group-title="Romania",Tele7 ABC
+https://live.tele7abc.ro/hls/stream/index.m3u8
