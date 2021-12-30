@@ -102,6 +102,8 @@ https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott_p2/playlist.m3u8
 https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/v5lNfFF.png" group-title="Albania",RTSH Kukesi
 https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p1/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/3VvJbyT.png" group-title="Albania",RTSH Kuvend
+http://185.226.88.3:1036/live/backup/backup/127.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/VwNDv9J.png" group-title="Albania",RTSH Muzike
 http://185.226.88.3:1036/live/backup/backup/128.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gBrpRy0.png" group-title="Albania",RTSH Plus
