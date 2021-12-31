@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/sD2t6ry.png" group-title="Albania",3 Plus
 http://185.226.88.3:1036/live/backup/backup/76.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/zEvkyE2.png" group-title="Albania",A2 News
@@ -12,6 +11,8 @@ http://185.226.88.3:1036/live/backup/backup/95.m3u8
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/aG60Rwf.png" group-title="Albania",Albkanale Music TV
 https://secured.albportal.net:2083/live/a.musictv/a.musictv/47.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/cKXNw7J.jpg" group-title="Albania",ALB Dreams
+http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/XpXvXFW.png" group-title="Albania",ALB Music
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w1268431378.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/n28452Y.png" group-title="Albania",Alpo TV
@@ -54,6 +55,8 @@ http://185.226.88.3:1036/live/backup/backup/81.m3u8
 http://185.226.88.3:1036/live/backup/backup/106.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Qu9Pl24.png" group-title="Albania",Klan Music
 http://185.226.88.3:1036/live/backup/backup/108.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/EtJbRig.png" group-title="Albania",Klan News
+http://185.226.88.3:1036/live/backup/backup/94.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/Qq0gdC0.png" group-title="Albania",Klan Plus
 http://185.226.88.3:1036/live/backup/backup/107.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/joG67zU.png" group-title="Albania",Koha TV
@@ -138,10 +141,14 @@ http://82.114.87.150:8881/play/a01x/index.m3u8
 http://82.114.87.150:8881/play/a016/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/0rQ6d6u.png" group-title="Albania",Sky Star HD
 http://82.114.87.150:8881/play/a07f/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/68afFpS.png" group-title="Albania",Smile
+http://185.226.88.3:1036/live/backup/backup/96.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/smvAJop.png" group-title="Albania",Sofia TV
 http://93.157.62.180/Sofia/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/5tk8UU5.png" group-title="Albania",Syri TV
 https://tv.syri.net/syrilive/webtv/chunks.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="" group-title="Albania",The Vibe
+http://contactvision.flashmediacast.com:1935/contactvision/livestream/chunklist_w1481868454.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/yCIOvu8.png" group-title="Albania",Tip TV
 http://185.226.88.3:1036/live/backup/backup/77.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/vN8K17g.png" group-title="Albania",Tirana1
@@ -150,6 +157,8 @@ http://185.226.88.3:1036/live/backup/backup/85.m3u8
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x6inuzo
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PkPpwaJ.png" group-title="Albania",TOPESTRADA
 http://live.topestrada.com/live/topestrada/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/hzkYkCD.png" group-title="Albania",Travelingo TV
+http://82.114.87.150:8881/play/a096/index.m3u8
 #EXTINF:1 tvg-id="TringAction.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/RBSheNn.png" group-title="Albania",Tring Action
 http://185.226.88.3:1036/live/backup/backup/69.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qKT0WdQ.png" group-title="Albania",Tring Comedy
@@ -160,6 +169,8 @@ http://185.226.88.3:1036/live/backup/backup/72.m3u8
 http://185.226.88.3:1036/live/backup/backup/68.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/0nuRd8s.png" group-title="Albania",Tring International
 http://185.226.88.3:1036/live/backup/backup/64.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/SRbYO2u.png" group-title="Albania",Tring Jolly
+http://185.226.88.3:1036/live/backup/backup/75.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/pcVgQ2m.png" group-title="Albania",Tring Kids
 http://93.157.62.180/TringKids/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/qIaPBJg.png" group-title="Albania",Tring Life
@@ -188,6 +199,8 @@ http://93.157.62.180/TringWorld/index.m3u8
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PbkZ0uO.png" group-title="Albania",TV Johaniter
 http://185.226.88.3:1036/live/backup/backup/162.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/ZXij5xW.png" group-title="Albania",TV Kopliku
+http://167.86.125.240:25461/live/kopliku/12/1.m3u8
 #EXTINF:1 tvg-id="VizionPlus.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/z5Jd4Am.png" group-title="Albania",Vizion Plus HD
 http://185.226.88.3:1036/live/backup/backup/111.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/rak3XJH.png" group-title="Albania",Zjarr TV
