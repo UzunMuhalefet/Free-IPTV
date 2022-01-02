@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:1 tvg-id="" tvg-language="Croatina" tvg-logo="https://i.imgur.com/mpkdDgs.png" group-title="Croatia",Arena Sport 1
+http://178.217.15.36/ArenaSport1/index.m3u8?token=test
+#EXTINF:1 tvg-id="AuroraTV.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/qUbmTYE.png" group-title="Croatia",Aurora TV
+http://85.94.81.190:8844/sdi/aurora.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/Ziw9XY9.png" group-title="Croatia",Banovina TV
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/8niz0tJ.png" group-title="Croatia",Cro TV
+http://92.204.40.139:8081/crotv/televizijahrvatskedijaspore/chunks.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/eOvAEzh.png" group-title="Croatia",Diadora TV
+https://diadoratv.stream:4443/web/diadora/chunklist_w711585280.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/rN8XvaU.png" group-title="Croatia",GM Plus
+http://178.217.15.36/fineliving/index.m3u8?token=test
+#EXTINF:1 tvg-id="HRT1.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/hai7U4U.png" group-title="Croatia",HRT 1
+http://82.114.87.150:8881/play/a00y/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/YNlRd5U.png" group-title="Croatia",Jefemija TV
+rtmp://212.200.108.253/live/jefimija
+#EXTINF:1 tvg-id="N1Hrvatska.rs" tvg-language="Croatian" tvg-logo="https://i.imgur.com/O8eVVKh.png" group-title="Croatia",N1 Hrvastska
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/ifTNZiW.png" group-title="Croatia",Osjecka TV
+http://api.new.livestream.com/accounts/27681961/events/8347875/live.m3u8
+#EXTINF:1 tvg-id="OTV.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/WIsSu7b.png" group-title="Croatia",Otrovena TV
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/AzGKWIs.png" group-title="Croatia",Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/wOlzxGY.pngcurl" group-title="Croatia",Toon Kids
+http://103.194.169.171:8282/ex-yu_Orlando_Kids/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/YvUnWR9.png" group-title="Croatia",Trend TV Karlovac
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/QN81VGL.png" group-title="Croatia",Una TV HR
+https://cdn3.wowza.com/1/T2ZSalN3SGk2dk5B/M0hZYVlw/hls/wbwjwjz7/2728/chunklist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/Ia7JniY.png" group-title="Croatia",Zapad TV
+https://stream.zapad.tv:3622/live/tvzapadlive.m3u8
