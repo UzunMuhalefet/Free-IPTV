@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/pxD2aR8.png" group-title="Macedonia",24 Vesti
+http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/5bBJEKA.png" group-title="Macedonia",Alfa TV
+http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/qQKyo4N.png" group-title="Macedonia",Alsat M
+http://185.226.88.3:1036/live/backup/backup/116.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/TcS4ANj.png" group-title="Macedonia",Balkan Music TV
+http://163.172.88.94:12989/live/BalkanMusic/121212/13.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Hvex23D.png" group-title="Macedonia",Euro Folk TV
+https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041_sd.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Ud02sge.png" group-title="Macedonia",Folk Club TV
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/j4CwAkv.png" group-title="Macedonia",In TV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/JRP9vr9.png" group-title="Macedonia",Kanal 5
+http://51.195.90.133:8081/tvstanici/2/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/DBPhqZK.png" group-title="Macedonia",Kanal 8
+http://kanal8.hugo.mk:1935/live/kanal8/chunklist_w1627597037.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/9LmGcv8.png" group-title="Macedonia",Klan Macedonia
+http://185.226.88.3:1036/live/backup/backup/109.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/joG67zU.png" group-title="Macedonia",Koha TV
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/qMo2u9U.png" group-title="Macedonia",Macedonian Channel Documentary
+http://giganet.mk/hls/macdoc.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/ASeMQ7z.png" group-title="Macedonia",Makedonsko Sonce GA
+https://media2.streambrothers.com:1936/8128/8128/chunklist_w376532442.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kgILMQz.png" group-title="Macedonia",Makedonija Net
+https://giganet.mk/hls/mnet.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kgILMQz.png" group-title="Macedonia",Mnet Info
+https://ares.mnet.mk/hls/mnet-info.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kgILMQz.png" group-title="Macedonia",Mnet Kids
+https://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/kgILMQz.png" group-title="Macedonia",Mnet Sport
+https://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/sHu7MTd.png" group-title="Macedonia",MRT 1
+http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/uTQBR71.png" group-title="Macedonia",Nasa TV
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/6Nuw6RP.png" group-title="Macedonia",RTV21 Maqedoni
+http://82.114.87.150:8881/play/a03l/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Rs5OiSB.png" group-title="Macedonia",Sitel TV
+http://51.178.133.43:8081/tvstanici/s1/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Jbg7ans.png" group-title="Macedonia",Sky Folk
+https://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="" group-title="Macedonia",Star Music
+https://live.muzickatv.mk/live/StarMusic.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/3vAJ6yG.png" group-title="Macedonia",Telma TV
+http://135.125.204.34:8081/tvstanici/3/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/74L990y.png" group-title="Macedonia",TV Nova 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/terBVQp.png" group-title="Macedonia",TV Sonce
+https://media2.streambrothers.com:1936/8142/8142/chunklist_w1040708649.m3u8
