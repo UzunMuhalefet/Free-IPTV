@@ -237,6 +237,8 @@ http://fidece38941.ozelip.com:2052/demotv/demotv/playlist.m3u8
 https://tv170.ozelip.com:1936/foramuzik/foramuzik/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b3e7337c-63b2-42cd-b194-4933d3f094dc.png" group-title="Müzik-2",Genç Kral TV
 http://fidece38941.ozelip.com:2052/genckraltv/genckraltv/chunklist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb3fa910-edf1-4687-8d37-bf90c9dea47e.jpg" group-title="Müzik-2",Genç Kraliçe TV
+https://tv170.ozelip.com:1936/genckralicetv/genckralicetv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eab96d15-0274-4e03-86cd-7f85126128c9.png" group-title="Müzik-2",Gidon TV
 http://tv56245.ozelip.com:2052/tvgidon/tvgidon/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6738d7e2-2efa-43f9-a5e1-e23e8c30e9f6.png" group-title="Müzik-2",Lugat TV
@@ -261,8 +263,6 @@ https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
 #EXTINF:1 tvg-id="Yaban.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cb404d1-3d4a-454e-9064-cc51b747b4df.png" group-title="Belgesel",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f43178e5-e366-4ca5-80ce-30d900e2835f.png" group-title="Belgesel",Habitat TV
-https://ankara.tvizlehd.com/live/habitattv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" group-title="Belgesel",blutv Belgesel
 https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index_3.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/40110366-6a00-4df6-83f0-a2802a827efb.png" group-title="Belgesel",CRI Türk Belgesel
