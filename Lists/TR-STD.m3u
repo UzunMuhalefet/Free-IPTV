@@ -463,6 +463,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://broadcasttr.com:446/naturaltv/bant1/chunklist_w395051295.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1d722932-25fe-4a68-9ba0-dceeb7b3e367.png" group-title="Diğer",Super 7 TV
 https://tv170.ozelip.com:1936/super/super/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3a832413-528c-4449-95a4-9727279a850c.png" group-title="Diğer",Süper TV
+https://59cba4d34b678.streamlock.net/live/supertv/chunklist_w1272293921.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://www.lyngsat.com/logo/tv/ss/szc-tr.png" group-title="Diğer",SZC
 https://ankara.tvizlehd.com/live/sozcutv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9f42a89e-3643-4d71-9539-3887172d5f04.jpg" group-title="Diğer",TC TV
