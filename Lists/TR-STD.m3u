@@ -168,7 +168,7 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/chunklist_
 #EXTINF:1 tvg-id="TJKTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce140f08-b6e8-413d-ab22-6c5760a7b1ea.png" group-title="Spor",TJK TV
 http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:1 tvg-id="TJKTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce140f08-b6e8-413d-ab22-6c5760a7b1ea.png" group-title="Spor",TJK TV 2
-https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=fOtxQPWfeXk
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=fOtxQPWfeXk
 #EXTINF:1 tvg-id="TAYTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cccc2413-1960-4476-ab8d-0cb9b9511fc4.png" group-title="Spor",Tay TV
 https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a915fc70-7152-4739-b798-b5bb8d172e5c.png" group-title="Spor",Briç ve Satranç TV
