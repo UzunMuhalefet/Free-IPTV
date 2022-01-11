@@ -586,8 +586,6 @@ http://185.87.252.44:4343/hls/edessatv.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/egelivetv/chunklist_w792055843.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eba699de-8d55-457a-b10b-0d8e10bc9a5f.png" group-title="Yerel",Ege Türk
 https://iptv.egeturk.tv/iptv/canliyayin/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fc478e8f-7fdf-4a81-a620-b475aac86c42.png" group-title="Yerel",Ege TV
-https://waw1.artiyerelmedya.net/egetv/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4d7b2cf2-1379-4142-9266-41bba476c00d.png" group-title="Yerel",Ekin Türk TV
 https://ankara.tvizlehd.com/live/ekintv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/45c9e181-b559-41c4-a5c7-8e7acc444464.png" group-title="Yerel",Elmas 67 TV
@@ -812,6 +810,8 @@ https://mn-nl.mncdn.com/blutv_vuslattv2/live_720p2000000kbps/index.m3u8
 https://livesx.canlitv.center/yesilyurt.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ea10ee4d-04af-4c47-ab4c-71355ca627e1.png" group-title="Yerel",Yıldız En TV
 https://ankara.tvizlehd.com/live/yildiztv.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6db76241-1eb4-479f-9241-6fbe261f3a79.png" group-title="Yerel",World Türk
+http://yerelmedya.tv:1935/worldturk/bant1/playlist.m3u8
 
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8f474336-38db-4689-8424-57c2d7501463.jpg" group-title="Özel",Akkon TV
@@ -856,6 +856,8 @@ http://cdn1-superturkhd.yayin.com.tr/superturkhd/amlst:superturkhd/playlist.m3u8
 http://adana01.ozelip.com:26258/adana/adana/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title="Özel",Şaban TV
 http://ankara.tvizlehd.com/live/sabantv.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8cbc8938-0a17-4cf6-9bc3-cfc2f7a21dd5.png" group-title="Özel",Şaban TV
+https://vdo.mediacp.eu:3373/stream/play.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="Özel",TBRT Kanal 1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title="Özel",TBRT Kanal 6
