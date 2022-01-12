@@ -682,6 +682,8 @@ http://live.arkumedia.com:1935/kanalordutv/kanalordutv/chunklist.m3u8
 https://broadcasttr.com:446/kanalurfa/bant1/chunklist_w1125528664.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/142a083b-23d5-4830-b591-4daacf001119.png" group-title="Yerel",Kanal Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/892972f2-86da-4be4-8b6c-a0e9083a1197.png" group-title="Yerel",Karadeniz Türk
+http://46.31.146.187:44500/play/a03j/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/82cbf819-a8ab-489e-8a9b-adf0073bc29d.png" group-title="Yerel",Kardelen TV
 http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" group-title="Yerel",Kastamonu TV
