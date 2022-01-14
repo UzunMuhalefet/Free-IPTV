@@ -11,6 +11,18 @@ http://91.226.51.126:8000/udp/239.100.10.128:2234
 http://91.226.51.126:8000/udp/239.100.10.86:2234
 #EXTINF:1 tvg-id="AleKinoPlus.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/9qLtHhf.png" group-title="Poland",Ale kino+ 
 http://91.226.51.126:8000/udp/239.100.10.35:2234
+#EXTINF:1 tvg-id="AnimalPlanetPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/P2wzrD9.png" group-title="Poland",Animal Planet Polska
+http://95.211.250.54:80/ANIMAL_PLANET/mono.m3u8
+#EXTINF:1 tvg-id="AXNPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/fY8uRd1.png" group-title="Poland",AXN Polska
+http://95.211.250.54:80/AXN/mono.m3u8
+#EXTINF:1 tvg-id="AXNPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/ygMLmYm.png" group-title="Poland",AXN Black Polska
+http://95.211.250.54:80/AXN_BLACK/mono.m3u8
+#EXTINF:1 tvg-id="BabyTVEurope.uk" tvg-language="Polish" tvg-logo="https://i.imgur.com/cSlbDKc.png" group-title="Poland",Baby TV Europe
+http://95.211.250.54:80/Baby_TV/mono.m3u8
+#EXTINF:1 tvg-id="BBCFirstPolska.uk" tvg-language="Polish" tvg-logo="https://i.imgur.com/fcisBPe.png" group-title="Poland",BBC First Polska 
+http://95.211.250.54:80/BBC/mono.m3u8
+#EXTINF:1 tvg-id="BoomerangPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/wZVcTlN.png" group-title="Poland",Boomerang Polska
+http://95.211.250.54:80/BOOMERANG/mono.m3u8
 #EXTINF:1 tvg-id="CanalPlus1.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/ZFiQhvT.png" group-title="Poland",CANAL+1 HD
 http://91.226.51.126:8000/udp/239.100.10.187:2234
 #EXTINF:1 tvg-id="CanalPlusDokument.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/AC33cm7.png" group-title="Poland",CANAL+ DOKUMENT HD
@@ -35,12 +47,38 @@ http://95.211.250.54:80/CANAL+_SPORT_2/tracks-v1a1/mono.m3u8
 http://95.211.250.54:80/CANAL+_SPORT_3/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="CanalPlusSport4Polska.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/wIOkx5d.png" group-title="Poland",CANAL+ SPORT 4 HD
 http://95.211.250.54:80/CANAL+_SPORT_4/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="CartoonNetworkPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/Wu27YDd.png" group-title="Poland",Cartoon Network Polska
+http://95.211.250.54:80/CARTOON_NETWORK/mono.m3u8
+#EXTINF:1 tvg-id="CBSRealityPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/H5AEEVH.png" group-title="Poland",CBS Reality Polska
+http://95.211.250.54:80/cbs_reality/mono.m3u8
+#EXTINF:1 tvg-id="DaVinciPolska.de" tvg-language="Polish" tvg-logo="https://i.imgur.com/aK9Ab3b.png" group-title="Poland",Da Vinci Polska
+http://95.211.250.54:80/da_vinci/mono.m3u8
 #EXTINF:1 tvg-id="DiscoPoloMusic.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/GHzgxXB.png" group-title="Poland",Disco Polo Music
 http://91.226.51.126:8000/udp/239.100.10.136:2234
+#EXTINF:1 tvg-id="DiscoveryChannelPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/kk4ywv1.png" group-title="Poland",Discovery Channel Polska
+http://95.211.250.54:80/DISCOVERY/mono.m3u8
+#EXTINF:1 tvg-id="DiscoveryLifePolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/vQ9aMsO.png" group-title="Poland",Discovery Life Polska
+http://95.211.250.54:80/DISCOVERY_LIFE/mono.m3u8
+#EXTINF:1 tvg-id="DiscoverySciencePolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/XIwvyAj.png" group-title="Poland",Discovery Science Polska
+http://95.211.250.54:80/DISCOVERY_SCIENCE/mono.m3u8
+#EXTINF:1 tvg-id="DisneyChannelPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/TYWN4XS.png" group-title="Poland",Disney Channel Polska
+http://95.211.250.54:80/DISNEY_CHANNEL/mono.m3u8
+#EXTINF:1 tvg-id="DisneyJuniorTurkiyePolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/uDYSoHj.png" group-title="Poland",Disney Junior Polska
+http://95.211.250.54:80/DISNEY_JUNIOR/mono.m3u8
+#EXTINF:1 tvg-id="DisneyXDPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/fIzfRig.png" group-title="Poland",Disney XD Polska
+http://95.211.250.54:80/disney_xd/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/Wu27YDd.png" group-title="Poland",Dla Ciebie TV
 http://94.246.128.53:1935/tv/dlaCiebieTv/playlist.m3u8
+#EXTINF:1 tvg-id="DTXPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/QjoIWiV.png" group-title="Poland",DTX Polska
+http://95.211.250.54:80/DTX/mono.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/06MMg3z.png" group-title="Poland",E HD
+http://95.211.250.54:80/E/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/NFM0zOq.png" group-title="Poland",Echo24
 https://live-insysgo.cf.insyscd.net/echo24.720.smil/manifest.mpd
+#EXTINF:1 tvg-id="Eurosport1Polska.fr" tvg-language="Polish" tvg-logo="https://i.imgur.com/Z00sdKe.png" group-title="Poland",EUROSPORT_1 HD
+http://95.211.250.54:80/EUROSPORT_1/mono.m3u8
+#EXTINF:1 tvg-id="Eurosport2Polska.fr" tvg-language="Polish" tvg-logo="https://i.imgur.com/xkz38Je.png" group-title="Poland",EUROSPORT_2 HD
+http://95.211.250.54:80/EUROSPORT_2/mono.m3u8
 #EXTINF:1 tvg-id="ElevenSports1Polska.uk" tvg-language="Polish" tvg-logo="https://i.imgur.com/22s1HVu.png" group-title="Poland",Eleven Sports 1
 http://95.211.250.54:80/ELEVEN/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="ElevenSports2Polska.uk" tvg-language="Polish" tvg-logo="https://i.imgur.com/YVAstwW.png" group-title="Poland",Eleven Sports 2
@@ -55,18 +93,48 @@ http://91.226.51.126:8000/udp/239.100.10.139:2234
 http://91.226.51.126:8000/udp/239.100.10.142:2234
 #EXTINF:1 tvg-id="EskaTVExtra.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/fPUBM4d.png" group-title="Poland",Eska TV Extra
 http://91.226.51.126:8000/udp/239.100.10.117:2234
+#EXTINF:1 tvg-id="ExtremeSportsChannelPolska.nl" tvg-language="Polish" tvg-logo="https://i.imgur.com/isIeZjK.png" group-title="Poland",Extreme Sports Channel Polska
+http://95.211.250.54:80/EXTREME_SPORTS/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/hJAoLIq.png" group-title="Poland",Ezo TV
 http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:1 tvg-id="FightBoxHD.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/vX3T59t.png" group-title="Poland",FIGHTBOX HD
+http://95.211.250.54:80/FIGHTBOX/mono.m3u8
+#EXTINF:1 tvg-id="FilmBoxArthouseWorldwide.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/LHe5bHE.png" group-title="Poland",FILMBOX_ARTHOUSE
+http://95.211.250.54:80/FILMBOX_ARTHOUSE/mono.m3u8
+#EXTINF:1 tvg-id="FilmBoxFamily.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/LQEO9By.png" group-title="Poland",FILMBOX_FAMILY
+http://95.211.250.54:80/FILMBOX_FAMILY/mono.m3u8
 #EXTINF:1 tvg-id="FokusTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/F3czerT.png" group-title="Poland",Fokus TV
 http://95.211.250.54:80/FOKUS_TV/mono.m3u8
+#EXTINF:1 tvg-id="FoodNetworkPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/TMYnWj4.png" group-title="Poland",Food Network Polska
+http://95.211.250.54:80/FOOD_NETWORK/mono.m3u8
+#EXTINF:1 tvg-id="FoxPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/cItGaUi.png" group-title="Poland",Fox Polska
+http://95.211.250.54:80/FOX/mono.m3u8
+#EXTINF:1 tvg-id="HBOPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/mBDhEoI.png" group-title="Poland",HBO Polska
+http://95.211.250.54:80/HBO/mono.m3u8
+#EXTINF:1 tvg-id="HGTVPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/KKYPCM1.png" group-title="Poland",HGTV Polska
+http://95.211.250.54:80/HGTV/mono.m3u8
+#EXTINF:1 tvg-id="HistoryPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/2A5tAjx.png" group-title="Poland",History Polska
+http://95.211.250.54:80/HISTORY/mono.m3u8
+#EXTINF:1 tvg-id="HomeTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/aVSUDYc.png" group-title="Poland",HOME_TV
+http://95.211.250.54:80/HOME_TV/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/DLqtkKU.png" group-title="Poland",Hope Channel Polska
 https://stream.hopechannel.pl/livetv/colombo/hope/Hope%203M%20mp4a.m3u8?hlsid=HTTP_ID_114555
+#EXTINF:1 tvg-id="InvestigationDiscoveryPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/CHIBiED.png" group-title="Poland",ID Polska
+http://95.211.250.54:80/ID_HD/mono.m3u8
 #EXTINF:1 tvg-id="KinoPolska.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/kJSt93H.png" group-title="Poland",Kino Polska HD
 http://91.226.51.126:8000/udp/239.100.10.38:2234
 #EXTINF:1 tvg-id="Metro.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/AkehGjB.png" group-title="Poland",Metro TV
 http://91.226.51.126:8000/udp/239.100.10.89:2234
 #EXTINF:1 tvg-id="MiniMiniPlus.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/2RZmxIA.png" group-title="Poland",MiniMini+ HD
-http://91.226.51.126:8000/udp/239.100.10.107:2234
+http://95.211.250.54:80/MINIMINI/mono.m3u8
+#EXTINF:1 tvg-id="MTVPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/p083ONZ.png" group-title="Poland",MTV Polska
+http://95.211.250.54:80/MTV_POLSKA/mono.m3u8
+#EXTINF:1 tvg-id="NatGeoPeople.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/ZoJNwOs.png" group-title="Poland",NAT GEO People
+http://95.211.250.54:80/NAT_GEO_PEOPLE/mono.m3u8
+#EXTINF:1 tvg-id="NationalGeographicWildPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/dRIjrot.png" group-title="Poland",NAT GEO Wild
+http://95.211.250.54:80/NAT_GEO_WILD/mono.m3u8
+#EXTINF:1 tvg-id="NationalGeographicPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/4A7oT7l.png" group-title="Poland",National Geographic
+http://95.211.250.54:80/NATIONAL_GEO/mono.m3u8
 #EXTINF:1 tvg-id="NowaTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/gfVlgJ0.png" group-title="Poland",Nowa TV
 http://91.226.51.126:8000/udp/239.100.10.87:2234
 #EXTINF:1 tvg-id="NSportPlus.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/QWvj5Fw.png" group-title="Poland",nSport
@@ -76,7 +144,7 @@ http://91.226.51.126:8000/udp/239.100.10.137:2234
 #EXTINF:1 tvg-id="PoloTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/NctPaGu.png" group-title="Poland",Polo TV
 http://195.206.253.157:14000/polotv
 #EXTINF:1 tvg-id="Polonia1.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/d6cjizd.png" group-title="Poland",Polonia1 SD
-http://91.226.51.126:8000/udp/239.100.10.13:2234
+http://95.211.250.54:80/POLONIA_1/mono.m3u8
 #EXTINF:1 tvg-id="Polsat.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/jPQpXRe.png" group-title="Poland",Polsat
 http://91.226.51.126:8000/udp/239.100.10.4:2234
 #EXTINF:1 tvg-id="Polsat2.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/ZZ7HAdp.png" group-title="Poland",POLSAT 2 HD
@@ -110,7 +178,8 @@ http://91.226.51.126:8000/udp/239.100.10.98:2234
 #EXTINF:1 tvg-id="PolsatSportFight.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/jJ1tY3S.png" group-title="Poland",Polsat Sport Fight HD
 http://91.226.51.126:8000/udp/239.100.10.101:2234
 #EXTINF:1 tvg-id="PolsatSportNews.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/qHJrn4Y.png" group-title="Poland",Polsat Sport News HD
-http://91.226.51.126:8000/udp/239.100.10.99:2234
+http://95.211.250.54:80/POLSAT_SPORT_NEWS/mono.m3u8
+
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/XO23bOX.png" group-title="Poland",Polskie Radio 24
 https://stream15.polskieradio.pl/pr24_video/video_pr24.stream/chunklist_w1012403700.m3u8
 #EXTINF:1 tvg-id="PowerTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/mxSIcZm.png" group-title="Poland",PowerTV HD
@@ -129,6 +198,8 @@ http://91.226.51.126:8000/udp/239.100.10.34:2234
 http://91.226.51.126:8000/udp/239.100.10.91:2234
 #EXTINF:1 tvg-id="Tele5.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/tPBW6NA.png" group-title="Poland",Tele 5
 http://91.226.51.126:8000/udp/239.100.10.15:2234
+#EXTINF:1 tvg-id="TeletoonPlusHDPolska.fr" tvg-language="Polish" tvg-logo="https://i.imgur.com/9WfebyZ.png" group-title="Poland",TELETOON+ Polska
+http://95.211.250.54:80/TELETOON+/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/OtUtWL4.png" group-title="Poland",Telewizja Dami Radom
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCL1u3cY7_nPjbZmKljCy_Cw/live
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/0gZupbA.png" group-title="Poland",Telewizja Kujawy
@@ -137,6 +208,10 @@ https://stream.tvkujawy.pl:8090/live/broadcast.m3u8
 https://redir.cache.orange.pl/jupiter/o2-cl7/ssl//live/tvrepublika/live-tvrepublika-6000k.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/z8178nv.png" group-title="Poland",Telewizja Wielkopolska
 https://stream6.nadaje.com:35308/live/stream-1/chunklist_w1969766967.m3u8
+#EXTINF:1 tvg-id="TLCPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/fULZqjn.png" group-title="Poland",TLC Polska
+http://95.211.250.54:80/TLC/mono.m3u8
+#EXTINF:1 tvg-id="TNTPolska.us" tvg-language="Polish" tvg-logo="https://i.imgur.com/OR4929X.png" group-title="Poland",TNT Polska
+http://95.211.250.54:80/TNT_HD/mono.m3u8
 #EXTINF:1 tvg-id="TVTrwam.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/H6jPXvw.png" group-title="Poland",Trwam TV
 https://trwamtv.live.rd.insyscd.net/cl01/out/u/trwam_3.m3u8
 #EXTINF:1 tvg-id="TTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/UBiBFpa.png" group-title="Poland",TTV
@@ -168,7 +243,7 @@ http://91.226.51.126:8000/udp/239.100.10.3:2234
 #EXTINF:1 tvg-id="TVN24.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/2csUNfE.png" group-title="Poland",TVN24 HD
 http://91.226.51.126:8000/udp/239.100.10.10:2234
 #EXTINF:1 tvg-id="TVN24BiS.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/gngnGrJ.png" group-title="Poland",TVN24 BiS HD
-http://91.226.51.126:8000/udp/239.100.10.16:2234
+http://95.211.250.54:80/TVN_24_BIS/mono.m3u8
 #EXTINF:1 tvg-id="TVN7.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/Uwe5vuw.png" group-title="Poland",TVN 7
 http://95.211.250.54:80/TVN_7/mono.m3u8
 #EXTINF:1 tvg-id="TVNFabula.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/JYHim8l.png" group-title="Poland",TVN Fabuјa HD
@@ -182,7 +257,7 @@ http://91.226.51.126:8000/udp/239.100.10.106:2234
 #EXTINF:1 tvg-id="TVP1.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/1o6q9rD.png" group-title="Poland",TVP 1
 http://91.226.51.126:8000/udp/239.100.10.1:2234
 #EXTINF:1 tvg-id="TVP2.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/xaoUAoT.png" group-title="Poland",TVP 2
-http://91.226.51.126:8000/udp/239.100.10.2:2234
+http://95.211.250.54:80/TVP_2_HD/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/jJ1cyxP.png" group-title="Poland",TVP 3 Białystok
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/d7uE0rZ.png" group-title="Poland",TVP 3 Bydgoszcz
@@ -216,7 +291,7 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/9nrIgx6.png" group-title="Poland",TVP 3 Wrocław
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
 #EXTINF:1 tvg-id="TVPHistoria.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/zpNZiqo.png" group-title="Poland",TVP Historia
-http://91.226.51.126:8000/udp/239.100.10.56:2234
+http://95.211.250.54:80/TVP_HISTORIA/mono.m3u8
 #EXTINF:1 tvg-id="TVPInfo.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/jR12A8A.png" group-title="Poland",TVP Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:1 tvg-id="TVPKultura.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/Ymo1V3r.png" group-title="Poland",TVP Kultura
@@ -226,15 +301,21 @@ http://91.226.51.126:8000/udp/239.100.10.12:2234
 #EXTINF:1 tvg-id="TVPRozrywka.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/hNx0JEm.png" group-title="Poland",TVP Rozrywka
 http://95.211.250.54:80/TVP_ROZRYWKA/mono.m3u8
 #EXTINF:1 tvg-id="TVPSeriale.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/YZ0LR6z.png" group-title="Poland",TVP Seriale
-http://195.206.253.157:11901/tvpseriale
+http://95.211.250.54:80/TVP_SERIALE/mono.m3u8
 #EXTINF:1 tvg-id="TVPSport.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/SGGBJ1L.png" group-title="Poland",TVP Sport
 http://91.226.51.126:8000/udp/239.100.10.100:2234
 #EXTINF:1 tvg-id="TVS.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/I9mGNgI.png" group-title="Poland",TVS HD
-http://91.226.51.126:8000/udp/239.100.10.28:2234
+http://95.211.250.54:80/TVS/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/S71VNAi.png" group-title="Poland",TVT
 http://gargoyle.tomkow.pl/hls/tvt.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/UoTX1px.png" group-title="Poland",Twoja TV
 http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:1 tvg-id="ViasatExplorePolsat.se" tvg-language="Polish" tvg-logo="https://i.imgur.com/qHJrn4Y.png" group-title="Poland",Viasat Explore Polsat
+http://95.211.250.54:80/POLSAT_VIASAT_EXPLORE/mono.m3u8
+#EXTINF:1 tvg-id="ViasatHistoryPolsat.se" tvg-language="Polish" tvg-logo="https://i.imgur.com/qHJrn4Y.png" group-title="Poland",Viasat History Polsat
+http://95.211.250.54:80/POLSAT_VIASAT_HISTORY/mono.m3u8
+#EXTINF:1 tvg-id="ViasatNaturePolsat.se" tvg-language="Polish" tvg-logo="https://i.imgur.com/qHJrn4Y.png" group-title="Poland",Viasat Nature Polsat
+http://95.211.250.54:80/POLSAT_VIASAT_NATURE/mono.m3u8
 #EXTINF:1 tvg-id="VoxMusicTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/XANhtrh.png" group-title="Poland",VOXmusicTV
 http://91.226.51.126:8000/udp/239.100.10.132:2234
 #EXTINF:1 tvg-id="WPTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/a4mpHyi.png" group-title="Poland",WP
