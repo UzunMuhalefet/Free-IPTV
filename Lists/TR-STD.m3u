@@ -363,8 +363,6 @@ https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
 https://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9589fa56-df82-4b06-ab9c-560ada846270.png" group-title="Tarım",Toprak TV
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/10524afe-e0e2-4a84-85a7-c40f09b15deb.png" group-title="Tarım",Tarım Türk TV
-http://46.31.146.187:44500/play/a02f/index.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0b69ebbd-f21b-4675-928f-9022d2e5e207.png" group-title="Kurumlar",ABB Web TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/ankarawebtv/live
@@ -396,6 +394,8 @@ http://s01.vpis.io/sariyer/sariyer.m3u8
 https://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_tv1/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/527a5c23-36a3-4218-b654-3a7118a4ffe5.png" group-title="Kurumlar",Turhal Web TV
 http://cdn-turhalwebtv.yayin.com.tr/turhalwebtv/turhalwebtv/chunklist_w1702401498.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2bf73448-2454-4684-94b4-30c74360e6de.png" group-title="Kurumlar",Yozgat Belediyesi TV
+https://cdn1-8040.yayin.com.tr/8040/8040/chunklist_w832120035.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c2aa7e-bebc-4b8f-b697-393fb7ebcaee.png" group-title="Kurumlar",Yusufeli Belediyesi Web TV
 https://cdn-yusufelibeltrtv.yayin.com.tr/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist_w992750607_b1596000.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/139675c5-dcc3-4ef6-91c0-5fbb7172d1b9.png" group-title="Kurumlar",ADD Web TV
@@ -449,6 +449,8 @@ http://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_1080p/playlist.m3u8
 https://yayin.hedeftv.com.tr:4443/hedeftv/smil:auto.smil/chunklist_w545627667_b2128000.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6dd53521-dc8b-4ba2-9990-9f06f87646c2.jpg" group-title="Diğer",KMD TV
 https://tv170.ozelip.com:1936/kmdtv/kmdtv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/781d3f3c-e246-47aa-95b9-2153a0d384c3.png" group-title="Diğer",Kobim TV
+https://host.onlineradyotv.net:1936/kobimtv/kobimtv/chunklist_w61809244.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/80bae4a3-31ea-4585-81c2-226bcaf76ba9.png" group-title="Diğer",Medya 24
 https://yayin2.medya24.com:1947/medya24/live/chunklist_w738076911.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dcc5822d-c73a-4ba3-8459-f0074ccdb032.jpg" group-title="Diğer",MGC
@@ -485,7 +487,7 @@ http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
 #EXTINF:1 tvg-id="KadirgaTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/83d32ed5-2396-4ce7-bbec-9e164aca1118.png" group-title="Yerel",Kadırga TV
 https://ankara.tvizlehd.com/live/kadirgatv.m3u8
 #EXTINF:1 tvg-id="Kanal23.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2b180329-c2f1-4d32-815f-e095815bf5ad.png" group-title="Yerel",Kanal 23
-https://cdn13-kanal23.yayin.com.tr/kanal23/kanal23/playlist.m3u8
+http://yerelmedya.tv:1935/kanal23/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="Kanal26.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e23fc92c-203c-4d91-aa70-e0d9bdeffd2a.png" group-title="Yerel",Kanal 26
 http://yerelmedya.tv:1935/kanal26/_definst_/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="Kanal33.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cc25e1d3-bac2-4468-bc66-f0b470c2465d.png" group-title="Yerel",Kanal 33
@@ -545,7 +547,7 @@ http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/79454249-94d5-4697-9d84-63c089b1f5b5.jpg" group-title="Yerel",Bayraklı TV
 http://tivi88.ozelip.com:2052/bayraklitv/bayraklitv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/079d2ac5-346b-4813-bd5d-b2beef744ea9.png" group-title="Yerel",Bitlis TV
-https://59cba4d34b678.streamlock.net/canlitv/bitlistv/chunklist_w2141962564.m3u8
+https://istanbul.tvizlehd.com/live/bitlistv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b1041556-d3be-4753-8ed1-709112e53c27.png" group-title="Yerel",Boztepe TV
 https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a31bfe38-e899-46dc-97de-00853cecc6b4.png" group-title="Yerel",BRTV
