@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/73zggFR.png" group-title="Bosnia and Herzegovina",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/glv8DuB.png" group-title="Bosnia and Herzegovina",B1 TV
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
 #EXTINF:1 tvg-id="BN.ba" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/fKRJnXm.png" group-title="Bosnia and Herzegovina",BN TV
@@ -11,11 +13,15 @@ http://83.78.23.248:8000/play/xxHayatMxx
 http://213.91.124.177:8080/6/index.m3u8?token=test
 #EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/e0Ouwus.png" group-title="Bosnia and Herzegovina",IDJ TV
 https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
-#EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/O8eVVKh.png" group-title="Bosnia and Herzegovina",N1 BiH
+#EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/GG82yFe.png" group-title="Bosnia and Herzegovina",Izvorna TV
+https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCCf78ZTxZv17637N12AE20Q/live
+#EXTINF:1 tvg-id="N1BosnaiHercegovina.rs" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/O8eVVKh.png" group-title="Bosnia and Herzegovina",N1 BiH
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/sNxgZSN.png" group-title="Bosnia and Herzegovina",Maria Vision Medjugorje
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/chunklist_b828000.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/BQd1UIt.png" group-title="Bosnia and Herzegovina",Mary TV Medjugorje
 https://2-fss-1.streamhoster.com/pl_122/amlst:200012-111298/chunklist_b2000000.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/gxF8mwY.png" group-title="Bosnia and Herzegovina",Nova BH
+#EXTINF:1 tvg-id="NovaBH.rs" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/gxF8mwY.png" group-title="Bosnia and Herzegovina",Nova BH
 http://213.91.124.177:8080/7/index.m3u8?token=test
 #EXTINF:1 tvg-id="NTVICKakanj.ba" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/jC9H1Tf.png" group-title="Bosnia and Herzegovina",NTV IC Kakanj
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ntvickakanj
@@ -43,7 +49,7 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 https://5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/chunklist_w25243179.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/5xUc5En.png" group-title="Bosnia and Herzegovina",TNT Kids
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/Ompnh3A.png" group-title="Bosnia and Herzegovina",TV Pirot
+#EXTINF:1 tvg-id="TVPirot.rs" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/Ompnh3A.png" group-title="Bosnia and Herzegovina",TV Pirot
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w355352845.m3u8
 #EXTINF:1 tvg-id="TVSlonExtra.ba" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/T4iuStY.png" group-title="Bosnia and Herzegovina",TV Slon Extra
 http://31.47.0.130:8082
