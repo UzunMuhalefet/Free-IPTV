@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 tvg-id="Arta.rs" tvg-language="Albanian" tvg-logo="https://i.imgur.com/8YIe0Ga.png" group-title="Kosovo",Arta
-http://82.114.87.150:8881/play/a04p/index.m3u8
+http://93.157.62.180/TVArta/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/VAvUTQi.png" group-title="Kosovo",A TV
 http://82.114.87.150:8881/play/a09f/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/eZmoS93.png" group-title="Kosovo",Dasma TV
@@ -10,16 +10,16 @@ http://82.114.87.150:8881/play/a07v/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/hp2dhkf.png" group-title="Kosovo",Istogu Channel
 http://82.114.87.150:8881/play/a084/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/RAX76x3.png" group-title="Kosovo",K Sport 1
-http://82.114.87.150:8881/play/a0al/index.m3u8
+http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gf6TsVf.png" group-title="Kosovo",K Sport 2
-http://82.114.87.150:8881/play/a0am/index.m3u8
+http://93.157.62.180/KSport2/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/IgE6OAT.png" group-title="Kosovo",K Sport 3
-http://82.114.87.150:8881/play/a0an/index.m3u8
+http://93.157.62.180/KSport3/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/5sOx4dh.png" group-title="Kosovo",K Sport 4
-http://82.114.87.150:8881/play/a0ao/index.m3u8
+http://93.157.62.180/KSport4/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/XRACO4B.png" group-title="Kosovo",Kanal 10
 http://82.114.87.150:8881/play/a09c/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/fs7soIN.png" group-title="Kosovo",Klan Kosova
+#EXTINF:1 tvg-id="KlanKosova.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/fs7soIN.png" group-title="Kosovo",Klan Kosova
 http://185.226.88.3:1036/live/backup/backup/110.m3u8
 #EXTINF:1 tvg-id="Kohavision.rs" tvg-language="Albanian" tvg-logo="https://i.imgur.com/nfHtyvy.png" group-title="Kosovo",Kohavision TV
 http://93.157.62.180/KTV/index.m3u8
@@ -51,8 +51,6 @@ http://185.226.88.3:1036/live/backup/backup/58.m3u8
 http://82.114.87.150:8881/play/a083/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/n3x75H5.png" group-title="Kosovo",RTV Mir
 http://82.114.87.150:8881/play/a09e/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/zxnBwqk.png" group-title="Kosovo",Shenja Tv
-http://185.226.88.3:1036/live/backup/backup/57.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/DYwJxBy.png" group-title="Kosovo",Syri Vision
 http://82.114.87.150:8881/play/a010/index.m3u8
 #EXTINF:1 tvg-id="T7.rs" tvg-language="Albanian" tvg-logo="https://i.imgur.com/moUlkX7.png" group-title="Kosovo",T7
@@ -62,13 +60,13 @@ http://82.114.87.150:8881/play/a034/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/jDdUua5.png" group-title="Kosovo",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/jczXAFd.png" group-title="Kosovo",TV Dukagjini
-http://82.114.87.150:8881/play/a04b/index.m3u8
+http://93.157.62.180/TVDukagjini/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/N633nXW.png" group-title="Kosovo",TV Liria
 http://82.114.87.150:8881/play/a046/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/m0hpo9Y.png" group-title="Kosovo",TV Llapi
 http://82.114.87.150:8881/play/a07b/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/5zRzTCL.png" group-title="Kosovo",TV Mitrovica
-http://82.114.87.150:8881/play/a02x/index.m3u8
+http://93.157.62.180/TVMitrovica/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/YN0v07J.png" group-title="Kosovo",TV Opinion
 http://82.114.87.150:8881/play/a035/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/E1FXbSS.png" group-title="Kosovo",TV Opoja
