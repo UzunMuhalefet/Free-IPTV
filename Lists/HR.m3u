@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 tvg-id="" tvg-language="Croatina" tvg-logo="https://i.imgur.com/mpkdDgs.png" group-title="Croatia",Arena Sport 1
+#EXTINF:1 tvg-id="ArenaSport1Hrvatska.rs" tvg-language="Croatina" tvg-logo="https://i.imgur.com/mpkdDgs.png" group-title="Croatia",Arena Sport 1
 http://178.217.15.36/ArenaSport1/index.m3u8?token=test
 #EXTINF:1 tvg-id="AuroraTV.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/qUbmTYE.png" group-title="Croatia",Aurora TV
 http://85.94.81.190:8844/sdi/aurora.m3u8
@@ -13,7 +13,7 @@ https://diadoratv.stream:4443/web/diadora/chunklist_w711585280.m3u8
 http://178.217.15.36/fineliving/index.m3u8?token=test
 #EXTINF:1 tvg-id="HRT1.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/hai7U4U.png" group-title="Croatia",HRT 1
 http://82.114.87.150:8881/play/a00y/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/YNlRd5U.png" group-title="Croatia",Jefemija TV
+#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/YNlRd5U.png" group-title="Croatia",Jeficurlmija TV
 rtmp://212.200.108.253/live/jefimija
 #EXTINF:1 tvg-id="N1Hrvatska.rs" tvg-language="Croatian" tvg-logo="https://i.imgur.com/O8eVVKh.png" group-title="Croatia",N1 Hrvastska
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
