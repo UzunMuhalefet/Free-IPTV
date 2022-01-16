@@ -3,7 +3,7 @@
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/3oYE6KJ.png" group-title="Hungary",Alföld TV
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/chunks.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/KGaaeQY.png" group-title="Hungary",AMC Hungary
+#EXTINF:1 tvg-id="AMCMagyarorszag.us" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/KGaaeQY.png" group-title="Hungary",AMC Hungary
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/4300.m3u8
 #EXTINF:1 tvg-id="ApostolTV.hu" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/ganoGXz.png" group-title="Hungary",Apostol TV
 https://live.apostoltv.hu/online/smil:gazdagret.smil/playlist.m3u8
@@ -123,13 +123,13 @@ http://79.120.178.90:1935/csornatv/tvlive/chunklist.m3u8
 https://media2.streambrothers.com:1936/8170/8170/chunklist_w373200322.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/MMIGepQ.png" group-title="Hungary",Regio Plusz TV
 https://stream.streaming4u.hu/RegioPluszTV/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/rR0EcBk.png" group-title="Hungary",RTL 2
+#EXTINF:1 tvg-id="RTLII.de" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/rR0EcBk.png" group-title="Hungary",RTL 2
 https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/dkgaIZK.png" group-title="Hungary",RTL Gold
+#EXTINF:1 tvg-id="RTLGold.de" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/dkgaIZK.png" group-title="Hungary",RTL Gold
 https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/SZlFQWO.png" group-title="Hungary",RTL Klub
+#EXTINF:1 tvg-id="RTLKlub.de" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/SZlFQWO.png" group-title="Hungary",RTL Klub
 https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Ci8z8KO.png" group-title="Hungary",RTL+
+#EXTINF:1 tvg-id="RTLPlus.de" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/Ci8z8KO.png" group-title="Hungary",RTL+
 https://stream.y5.hu/stream/stream_rtlp/hls1/stream.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/vdkCAfN.png" group-title="Hungary",RTVE
 https://5cd03f21c7193.streamlock.net/rtve/rtvelive/chunklist_w1925732350.m3u8
