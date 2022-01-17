@@ -51,7 +51,7 @@ http://92.60.237.32:1935/live/nisville/playlist.m3u8
 https://stream.unrealhosting.hu/hls/pannonrtv/live.m3u8
 #EXTINF:1 tvg-id="TVPCanal.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/bIlBpWn.png" group-title="Serbia",Pi Kanal
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/jP9fm9B.png" group-title="Serbia",Pink
+#EXTINF:1 tvg-id="Pink1.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/jP9fm9B.png" group-title="Serbia",Pink
 http://185.24.35.229:8080/pink/index.m3u8?token=test
 #EXTINF:1 tvg-id="PinkFamily.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/kURVvZk.png" group-title="Serbia",Pink Family
 http://109.105.201.198/PINKFAMILY/playlist.m3u8
