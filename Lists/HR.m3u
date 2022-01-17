@@ -12,7 +12,13 @@ https://diadoratv.stream:4443/web/diadora/chunklist_w711585280.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/rN8XvaU.png" group-title="Croatia",GM Plus
 http://178.217.15.36/fineliving/index.m3u8?token=test
 #EXTINF:1 tvg-id="HRT1.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/hai7U4U.png" group-title="Croatia",HRT 1
-http://82.114.87.150:8881/play/a00y/index.m3u8
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:1 tvg-id="HRT2.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/c9wUQUL.png" group-title="Croatia",HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:1 tvg-id="HRT3.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/3tXp1TQ.png" group-title="Croatia",HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:1 tvg-id="HRT4.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/85bm0xJ.png" group-title="Croatia",HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/YNlRd5U.png" group-title="Croatia",Jeficurlmija TV
 rtmp://212.200.108.253/live/jefimija
 #EXTINF:1 tvg-id="N1Hrvatska.rs" tvg-language="Croatian" tvg-logo="https://i.imgur.com/O8eVVKh.png" group-title="Croatia",N1 Hrvastska
@@ -21,7 +27,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1b
 http://api.new.livestream.com/accounts/27681961/events/8347875/live.m3u8
 #EXTINF:1 tvg-id="OTV.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/WIsSu7b.png" group-title="Croatia",Otrovena TV
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
-#EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/AzGKWIs.png" group-title="Croatia",Slavonska TV
+#EXTINF:1 tvg-id="SlavonskaTv.hr" tvg-language="Croatian" tvg-logo="https://i.imgur.com/AzGKWIs.png" group-title="Croatia",Slavonska TV
 http://89.201.163.244:8080/hls/hdmi.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Croatian" tvg-logo="https://i.imgur.com/wOlzxGY.pngcurl" group-title="Croatia",Toon Kids
 http://103.194.169.171:8282/ex-yu_Orlando_Kids/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
