@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/sD2t6ry.png" group-title="Albania",3 Plus
+#EXTINF:1 tvg-id="3Plus.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/sD2t6ry.png" group-title="Albania",3 Plus
 http://185.226.88.3:1036/live/backup/backup/76.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/zEvkyE2.png" group-title="Albania",A2 News
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCO-B2zbHROkxpMLjwQX6C8A/live
@@ -19,7 +19,7 @@ http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w1268431378.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/n28452Y.png" group-title="Albania",Alpo TV
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/wACfBzd.png" group-title="Albania",Apollon TV
-http://185.226.88.3:1036/live/backup/backup/84.m3u8
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/jkuQeY2.png" group-title="Albania",Balkanika Music Channel
 http://185.226.88.3:1036/live/backup/backup/14.m3u8
 #EXTINF:1 tvg-id="BangBang.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/fZy2Hrj.png" group-title="Albania",Bang Bang
