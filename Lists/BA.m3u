@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/73zggFR.png" group-title="Bosnia and Herzegovina",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/QjLsYe5.png" group-title="Bosnia and Herzegovina",America TV of Dardania
+http://46.99.146.236/0.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/glv8DuB.png" group-title="Bosnia and Herzegovina",B1 TV
 http://wowza.bihnet.net:88/hls/b1-live.m3u8
 #EXTINF:1 tvg-id="BN.ba" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/fKRJnXm.png" group-title="Bosnia and Herzegovina",BN TV
