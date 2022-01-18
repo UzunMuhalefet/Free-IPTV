@@ -117,7 +117,7 @@ http://194.76.186.77:8090/play/a01x
 https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/b0k3xhF.png" group-title="Entertainment",RTLup
 http://185.234.111.36:8003/play/a0ay/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/BzB0Anv.png" group-title="Entertainemnt",VOXup
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/BzB0Anv.png" group-title="Entertainment",VOXup
 http://109.122.68.51:4000/play/a04p
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/dNdemqx.png" group-title="Entertainment",eotv
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist_w450545089.m3u8?ref=eotv.de
