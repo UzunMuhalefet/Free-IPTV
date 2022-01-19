@@ -3,26 +3,48 @@
 https://srv1.adriatelekom.com/AdriaMusicTV/index.m3u8
 #EXTINF:1 tvg-id="AmariTV.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/qAlbJmd.png" group-title="Serbia",Amari TV
 https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="ArenaSport2.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/wR9PHro.png" group-title="Serbia",Arena Sport 2
+http://84.22.33.214/ArenaSport2/mpegts?token=test
 #EXTINF:1 tvg-id="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/LDuaPO2.png" group-title="Serbia",ART Vizija
 rtmp://92.60.237.39/live/test
 #EXTINF:1 tvg-id="B92.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/D8p6dta.png" group-title="Serbia",b92
 http://185.24.35.229:8080/b92/index.m3u8?token=test
 #EXTINF:1 tvg-id="TVBelleAmie.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/I3unOhq.png" group-title="Serbia",Belle Amie
 http://92.60.238.10:1935/live/belleamie/chunklist.m3u8
+#EXTINF:1 tvg-id="Cinemania.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/yT3IrXk.png" group-title="Serbia",Cinemania
+http://185.193.240.245:8000/play/a01q/index.m3u8
 #EXTINF:1 tvg-id="CineStarTVActionSrbija.hr" tvg-language="Serbian" tvg-logo="https://i.imgur.com/yT3IrXk.png" group-title="Serbia",Cine Star Action
 http://213.91.124.177:8080/1/index.m3u8?token=test
 #EXTINF:1 tvg-id="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/PYCufUS.png" group-title="Serbia",Cine Star TV 1
 http://213.91.124.177:8080/2/index.m3u8?token=test
 #EXTINF:1 tvg-id="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/geCFnrn.png" group-title="Serbia",Djak TV
 https://srv1.adriatelekom.com/DjakTV/index.m3u8
+#EXTINF:1 tvg-id="EGMelody.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/ESBI2ZT.png" group-title="Serbia",EG Melody
+http://185.193.240.245:8000/play/a01b/index.m3u8
+#EXTINF:1 tvg-id="EXYUMelody.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/yg3ras2.png" group-title="Serbia",EXYU Melody
+http://185.193.240.245:8000/play/a019/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/pyR5dxJ.png" group-title="Serbia",Euronews Serbia
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1302619168_b6256000.m3u8
+#EXTINF:1 tvg-id="FolkMelody.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/XGYCmm0.png" group-title="Serbia",Folk Melody
+http://185.193.240.245:8000/play/a018/index.m3u8
 #EXTINF:1 tvg-id="Happy.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Nq1BJZC.png" group-title="Serbia",Happy TV
 http://185.24.35.229:8080/happy/index.m3u8?token=test
+#EXTINF:1 tvg-id="HappyReality1.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/C6OFGMp.png" group-title="Serbia",Happy Reality 1
+http://185.193.240.245:8000/play/a016/index.m3u8
+#EXTINF:1 tvg-id="HappyReality2.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/FbeIPl9.png" group-title="Serbia",Happy Reality 2
+http://185.193.240.245:8000/play/a017/index.m3u8
+#EXTINF:1 tvg-id="HitsMelody.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/xs13WJN.png" group-title="Serbia",Hits Melody
+http://185.193.240.245:8000/play/a01c/index.m3u8
 #EXTINF:1 tvg-id="K23TV.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/cCdsRgN.png" group-title="Serbia",K23 TV
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x1jztwz
 #EXTINF:1 tvg-id="TVKanalM.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Vifzy8b.png" group-title="Serbia",Kanal M Paracin
 http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:1 tvg-id="KCN1.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/ptiRp83.png" group-title="Serbia",KCN 1
+http://185.193.240.245:8000/play/a00u/index.m3u8
+#EXTINF:1 tvg-id="KCN2.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/ggqsgEp.png" group-title="Serbia",KCN 2
+http://185.193.240.245:8000/play/a00v/index.m3u8
+#EXTINF:1 tvg-id="KCN3.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Hzgb4dH.png" group-title="Serbia",KCN 3
+http://185.193.240.245:8000/play/a00w/index.m3u8
 #EXTINF:1 tvg-id="KurirTV.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/8fI9F0O.png" group-title="Serbia",Kurir TV
 https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
 #EXTINF:1 tvg-id="Jeka.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/H4AskAr.png" group-title="Serbia",Muzzik Jeka
@@ -79,10 +101,20 @@ http://109.105.201.198/PINKWORLD/playlist.m3u8
 http://109.105.201.198/PINKWORLDCINEMA/playlist.m3u8
 #EXTINF:1 tvg-id="PinkZabava.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/GayjKXR.png" group-title="Serbia",Pink Zabava
 http://109.105.201.198/PINKZABAVA/playlist.m3u8
+#EXTINF:1 tvg-id="PopMelody.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/4yrFfMr.png" group-title="Serbia",Pop Melody
+http://185.193.240.245:8000/play/a01a/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/tJJNfol.png" group-title="Serbia",Pruga TV Lajkovac
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
 #EXTINF:1 tvg-id="PrvaSrpskaTV.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/EMEN8RM.png" group-title="Serbia",Prva
 http://185.24.35.229:8080/prva/index.m3u8?token=test
+#EXTINF:1 tvg-id="PrvaFiles.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/hs31M79.png" group-title="Serbia",Prva Files
+http://185.193.240.245:8000/play/a00y/index.m3u8
+#EXTINF:1 tvg-id="PrvaKick.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/HVbjX3S.png" group-title="Serbia",Prva Kick
+http://185.193.240.245:8000/play/a011/index.m3u8
+#EXTINF:1 tvg-id="PrvaLife.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Gtpwtov.png" group-title="Serbia",Prva Life
+http://185.193.240.245:8000/play/a00z/index.m3u8
+#EXTINF:1 tvg-id="PrvaMax.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/V4LXovD.png" group-title="Serbia",Prva Max
+http://185.193.240.245:8000/play/a00x/index.m3u8
 #EXTINF:1 tvg-id="PrvaPlus.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/tEU8Npc.png" group-title="Serbia",Prva Plus
 http://185.24.35.229:8080/prvaplus/index.m3u8?token=test
 #EXTINF:1 tvg-id="PrvaWorld.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/HVxMeFn.png" group-title="Serbia",Prva World
@@ -103,6 +135,8 @@ http://167.172.39.13/hls/tvcityub.m3u8
 https://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/televizijakragujevac
 #EXTINF:1 tvg-id="TVNoviPazar.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/k4FCnU5.png" group-title="Serbia",RTV Novi Pazar
 https://rtvnp.rs/hls/rtvnp.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/BCsNB3N.png" group-title="Serbia",RTV Studio B
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
 #EXTINF:1 tvg-id="SandzakTV.rs" tvg-language="Serbian" tvg-logo="https://i.imgur.com/mV1gAyE.png" group-title="Serbia",Sandzak TV
 http://46.240.128.178:4444/STVHD
 #EXTINF:1 tvg-id="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/niiyAFG.png" group-title="Serbia",Sehara Online
