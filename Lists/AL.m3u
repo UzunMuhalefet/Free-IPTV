@@ -111,11 +111,11 @@ http://185.226.88.3:1036/live/backup/backup/127.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/VwNDv9J.png" group-title="Albania",RTSH Muzike
 http://185.226.88.3:1036/live/backup/backup/128.m3u8
 #EXTINF:1 tvg-id="RTSHPlus.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/gBrpRy0.png" group-title="Albania",RTSH Plus
-http://83.78.23.248:8000/play/a09u
+http://185.204.32.4:9981/stream/channelid/914839179?ticket=6A9A5BA1C84F474C81CEC658E5457E2FBE375BDD&profile=pass
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/zMkmFYj.png" group-title="Albania",RTSH Satelit
 https://tvlive.rtsh.dev/live/rtsh_sat_ott_p2/playlist.m3u8
 #EXTINF:1 tvg-id="RTSHShqip.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/R5rseOr.png" group-title="Albania",RTSH Shqip
-http://83.78.23.248:8000/play/a09w
+http://185.204.32.4:9981/stream/channelid/847076243?ticket=553B4D7619478002AB85136F964046181FE4507C&profile=pass
 #EXTINF:1 tvg-id="RTSHShkolle.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/WMXsJy5.png" group-title="Albania",RTSH Shkölle
 http://93.157.62.180/RTSHShkole/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/WiACDfv.png" group-title="Albania",RTSH Shkodra
@@ -206,10 +206,14 @@ http://93.157.62.180/TringTring/index.m3u8
 http://93.157.62.180/TringWorld/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/pDQRCqN.png" group-title="Albania",TV 7
 https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/DAK6Xc5.png" group-title="Albania",TV Blue Sky
+http://185.204.32.4:9981/stream/channelid/1723922076?ticket=E0A0F09FD974557E0C8E82ADD559C786ECE754B6&profile=pass
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PbkZ0uO.png" group-title="Albania",TV Johaniter
 http://185.226.88.3:1036/live/backup/backup/162.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/ZXij5xW.png" group-title="Albania",TV Kopliku
 http://167.86.125.240:25461/live/kopliku/12/1.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/lD04UAq.png" group-title="Albania",TV Rozafa
+http://185.204.32.4:9981/stream/channelid/1528008613?ticket=7A36AB43803D8CDB60EBABED806751237002C530&profile=pass
 #EXTINF:1 tvg-id="VizionPlus.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/z5Jd4Am.png" group-title="Albania",Vizion Plus HD
 http://185.226.88.3:1036/live/backup/backup/111.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/rak3XJH.png" group-title="Albania",Zjarr TV
