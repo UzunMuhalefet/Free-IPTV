@@ -62,7 +62,7 @@ https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8
 #EXTINF:1 tvg-id="UlkeTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/98133f04-2aa5-4e55-af97-9315ea410f7b.png" group-title="Haber",Ülke TV
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
-#EXTINF:1 tvg-id="HalkTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6fa0122a-ab6e-4236-9a2d-968815a1418f.png" group-title="Haber",Halk TV
+#EXTINF:1 tvg-id="HalkTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d2021812-e58a-4710-9360-634d497d4712.PNG" group-title="Haber",Halk TV
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:1 tvg-id="NTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png" group-title="Haber",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
@@ -320,7 +320,7 @@ http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:1 tvg-id="RehberTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7c641b30-700a-4443-9a87-7c1b1299918a.png" group-title="Dini",Rehber TV
 https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
 #EXTINF:1 tvg-id="TV5.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5485f7bd-dee6-4d61-a81b-9d5966f44dd3.png" group-title="Dini",TV5
-https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8
+http://istanbul.tvizlehd.com/live/tv5.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e1959611-4639-4f5e-8d78-71762b8e5176.png" group-title="Dini",MPL TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTr00Butm_gEZmbUz_KI9gg
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a1e26fbf-851a-4aeb-a3e6-8294132be486.png" group-title="Dini",Nur TV
@@ -331,23 +331,23 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:1 tvg-id="BRT1.cy" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/beda28ac-c11e-47ad-bfc9-0b0d05c537f5.png" group-title="Kıbrıs",BRT 1
-http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+http://84.200.70.178:41542/bysid/53002
 #EXTINF:1 tvg-id="BRT2.cy" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/096c6c21-28ac-442d-bf07-a56b90a8e873.png" group-title="Kıbrıs",BRT 2
-http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
+http://84.200.70.178:41542/bysid/53001
 #EXTINF:1 tvg-id="BRT3.cy" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/759ceb97-ae3b-4d0b-bbcb-d869988d5f66.png" group-title="Kıbrıs",BRT 3
 https://ankara.tvizlehd.com/live/brt3.m3u8
 #EXTINF:1 tvg-id="AdaTV.cy" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/85558d83-bcb8-49e6-80da-697c3a8d4411.png" group-title="Kıbrıs",Ada TV
-http://kuzeykibris.tv/m3u8/tv_ada.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist_w1477833330.m3u8
 #EXTINF:1 tvg-id="KibrisGencTV.cy" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eb9bbecb-5c4c-4570-bf1b-97907de811ac.png" group-title="Kıbrıs",Genç TV
-http://kuzeykibris.tv/m3u8/tv_genc.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/chunklist_w1753396810.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a9e60853-1230-41c9-8b8a-de9177a2b78d.png" group-title="Kıbrıs",Güneş TV
 http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
 #EXTINF:1 tvg-id="KanalSim.cy" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2816ce79-2860-41ad-8006-ef8574abd8bb.png" group-title="Kıbrıs",Kanal Sim
-http://kuzeykibris.tv/m3u8/tv_sim.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/simtv/chunklist_w342311728.m3u8
 #EXTINF:1 tvg-id="KibrisKanalT.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dc724763-8a5a-4772-be6b-caa3d76b729d.png" group-title="Kıbrıs",Kanal T
-http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/kibriskanalt/chunklist_w2110842188.m3u8
 #EXTINF:1 tvg-id="KibrisTV.cy" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9a438631-e374-4518-a717-5cd2585bd43a.png" group-title="Kıbrıs",Kıbrıs TV
-http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
+http://84.200.70.178:41542/bysid/53008
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/497b08e7-a287-49e3-b8e3-f39b9483e2d9.png" group-title="Kıbrıs",Kuzey Kıbrıs TV
 http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8fadfa30-e07d-424a-945d-43b022d30732.png" group-title="Kıbrıs",Mayıs TV
@@ -355,7 +355,7 @@ http://167.114.116.217:1935/live/mayistv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d3df5795-0bd7-4c41-b5e6-8a60c640ac9b.png" group-title="Kıbrıs",Torba TV
 https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist_w947360967.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20445a9b-3713-4f67-8f06-825a1277ff4f.png" group-title="Kıbrıs",TV 2020
-http://kuzeykibris.tv/m3u8/tv_dialog.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/tv2020/chunklist_w244938658.m3u8
 
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b00c22c3-064e-40d8-be58-0d7b966f6c85.png" group-title="Tarım",Agro TV Türkiye
 https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8
