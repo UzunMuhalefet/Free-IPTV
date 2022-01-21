@@ -38,7 +38,7 @@ http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
 #EXTINF:1 tvg-id="NasaTV.mk" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/uTQBR71.png" group-title="Macedonia",Nasa TV
 https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/6Nuw6RP.png" group-title="Macedonia",RTV21 Maqedoni
-http://82.114.87.150:8881/play/a03l/index.m3u8
+http://82.114.83.86:8006/play/a01c
 #EXTINF:1 tvg-id="TVShenja.mk" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/zxnBwqk.png" group-title="Macedonia",Shenja Tv
 http://185.226.88.3:1036/live/backup/backup/57.m3u8
 #EXTINF:1 tvg-id="SitelTV.mk" tvg-language="Macedonian" tvg-logo="https://i.imgur.com/Rs5OiSB.png" group-title="Macedonia",Sitel TV
