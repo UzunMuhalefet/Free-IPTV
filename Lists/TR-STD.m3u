@@ -257,7 +257,7 @@ http://cdn-radyokulup.yayin.com.tr/radyokulup/radyokulup/chunklist.m3u8
 #EXTINF:1 tvg-id="TRTBelgesel.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c083b7-efe3-4133-89ba-10c503d69d84.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="TGRTBelgesel.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/c8ede3b2-ed24-499c-9b6f-0c32317b2bde.png" group-title="Belgesel",TGRT Belgesel
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/chunklist_b600000.m3u8
+https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 #EXTINF:1 tvg-id="Yaban.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1cb404d1-3d4a-454e-9064-cc51b747b4df.png" group-title="Belgesel",Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" group-title="Belgesel",blutv Belgesel
@@ -312,7 +312,7 @@ https://broadcasttr.com:446/tuncerciftci/bant1/chunklist_w66239823.m3u8
 #EXTINF:1 tvg-id="Kanal12.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ee606ee8-39f2-4848-82a8-07355aaa0360.png" group-title="Dini",Kanal 12
 https://waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="KudusTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/da557025-7638-4ae6-83b9-dd7d5dcd7ef4.png" group-title="Dini",Kudüs TV
-https://yayin30.haber100.com/live/kudustv/chunklist_w1507895771.m3u8
+https://yayin30.haber100.com/live/kudustv/chunklist_w889212056.m3u8
 #EXTINF:1 tvg-id="LalegulTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0408f060-b0bc-4eaa-9547-55fd5a3a7da0.png" group-title="Dini",Lalegül TV
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:1 tvg-id="On4.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/c9a4aa27-3920-42c9-aea4-28619603f087.png" group-title="Dini",On4 TV
@@ -875,3 +875,49 @@ http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 https://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9931d932-65c7-4570-811d-a4996a69c279.png" group-title="Özel",Yansıma Sinema
 https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:1 tvg-id="TRTWorld.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/df768c9f-16ee-4897-94f5-fd67ffff528e.png" group-title="World",TRT World
+http://85.187.244.105:54541
+#EXTINF:1 tvg-id="TRTArabi.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4663d02-78f2-4a86-8561-122ec175fe94.png" group-title="World",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
+#EXTINF:1 tvg-id="ANews.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d6d2fcb6-fd0e-4464-a467-c75294d911ae.png" group-title="World",A News
+http://ankara.tvizlehd.com/live/anews.m3u8
+#EXTINF:1 tvg-id="AljazeeraEnglish.qa" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1a40bf46-726a-4604-95a9-2d1d427091f7.png" group-title="World",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:1 tvg-id="BBCWorldNewsEurope.uk" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cbb45657-7f2b-4715-ae60-c217b8b360ac.png" group-title="World",BBC World News
+http://45.148.147.123:5079/play/a1140
+#EXTINF:1 tvg-id="BloombergTVEurope.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8b2f2e28-3751-429b-87d0-9d4c68c8bd01.png" group-title="World",Bloomberg TV
+http://45.148.147.123:5079/play/a1167
+#EXTINF:1 tvg-id="CGTN.cn" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/98d135c1-9747-4efc-b2cc-35687b05d91a.png" group-title="World",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:1 tvg-id="CGTNDocumentary.cn" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2da55e50-e6de-4477-8e9b-f37422852363.png" group-title="World",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:1 tvg-id="CNNInternationalEurope.us" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e7dd3e24-140e-4dbc-8ef6-1f5299393b7f.png" group-title="World",CNN International
+http://80.164.71.194:6565/play/cnninternacional
+#EXTINF:1 tvg-id="EuroNewsEnglish.fr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7a014dee-4bd8-4ed0-b16e-7ddcb45ac49b.png" group-title="World",Euronews English
+http://82.114.83.86:8005/play/euronews
+#EXTINF:1 tvg-id="FashionTVHDEurope.fr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/891ff38f-cd62-4ec7-9a02-16cc3b36969c.png" group-title="World",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:1 tvg-id="France24English.fr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/c4f95b14-53af-48bf-8695-5ec5159d1a32.png" group-title="World",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
+#EXTINF:1 tvg-id="MCMTop.fr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0c44cd0d-377d-4511-a3aa-a54ad583f396.png" group-title="World",MCM Top
+http://iptv.prosto.tv:7000/ch137/video.m3u8
+#EXTINF:1 tvg-id="TV5MondeEurope.fr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/678e8de8-3cdd-4672-995b-44fc55446cd5.png" group-title="World",TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:1 tvg-id="InsightHD.nl" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e8f7bc1e-c514-4596-bb82-af89dc51979e.png" group-title="World",Insight TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-insighttv/CDN/master.m3u8
+#EXTINF:1 tvg-id="TraceUrban.fr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7aa889cf-a79f-4987-9371-4593718cfbb2.png" group-title="World",Trace Urban
+http://95.141.128.163:8004/play/a0fh
+#EXTINF:1 tvg-id="AljazeeraChannel.qa" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0766f75c-474f-4f8a-87da-eea5924576ed.png" group-title="World",Al Jazeera Arabic
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:1 tvg-id="DWDeutsch.de" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4004d43f-26c0-41ca-9d8e-e57ed839c811.png" group-title="World",DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+#EXTINF:1 tvg-id="DWEnglish.de" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e610183e-07cc-4add-a17a-227ab275d993.png" group-title="World",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:1 tvg-id="France24Arabic.fr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e5201aec-0475-4ba6-97b7-5f657f8fe1b9.png" group-title="World",France 24 Arabic
+https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:1 tvg-id="RTArabic.ru" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/557be07c-a58f-47ee-aae8-4064449fab5e.jpeg" group-title="World",RT Arabic
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
+#EXTINF:1 tvg-id="RTEspanol.ru" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/58008e7b-56d4-40ae-ab4c-6af4f7c4c492.png" group-title="World",RT Espanol
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
