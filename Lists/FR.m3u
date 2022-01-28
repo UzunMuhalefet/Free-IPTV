@@ -87,7 +87,7 @@ http://212.8.250.27:8080/tv5monde/index.m3u8
 http://212.8.250.27:8080/13emerue/index.m3u8
 #EXTINF:1 tvg-id="SyfyFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/F6DoqQe.png" group-title="Thematic",SYFY
 http://212.8.250.27:8080/syfy/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/c8h9DmG.png" group-title="Documentaries",ID
+#EXTINF:1 tvg-id="InvestigationDiscoveryFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/c8h9DmG.png" group-title="Documentaries",ID
 http://212.8.250.27:8080/discoveryinvest/index.m3u8
 #EXTINF:1 tvg-id="MTVFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/LMDyved.png" group-title="Music",MTV
 http://212.8.250.27:8080/mtvfrance/index.m3u8
@@ -116,7 +116,7 @@ https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w12517
 http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
 #EXTINF:1 tvg-id="BFMLyon.fr" tvg-language="French" tvg-logo="https://i.imgur.com/k2SSnBv.png" group-title="Regional",BFM Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8?sd=10&rebase=on
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/X4RnMAU.png" group-title="Regional",BFM Paris
+#EXTINF:1 tvg-id="BFMParis.fr" tvg-language="French" tvg-logo="https://i.imgur.com/X4RnMAU.png" group-title="Regional",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/Q6g6bu0.png" group-title="Regional",TVPI 
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwVQAPo6tjC5w5yBBh0WEdA/live
@@ -156,7 +156,7 @@ http://212.8.250.27:8080/equidialive/index.m3u8
 
 
 ##### 120 #####
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/rqCClbY.png" group-title="Sport",ES1
+#EXTINF:1 tvg-id="ES1.fr" tvg-language="French" tvg-logo="https://i.imgur.com/rqCClbY.png" group-title="Sport",ES1
 http://212.8.250.27:8080/es1/index.m3u8
 #EXTINF:1 tvg-id="GolfChannelFrance.us" tvg-language="French" tvg-logo="https://i.imgur.com/wQpTrze.png" group-title="Sport",GOLF CHANNEL
 http://212.8.250.27:8080/golfchannel/index.m3u8
@@ -226,7 +226,7 @@ http://212.8.250.27:8080/crimedistric/index.m3u8
 ##### 230 #####
 #EXTINF:1 tvg-id="Mangas.fr" tvg-language="French" tvg-logo="https://i.imgur.com/Vz9Vj8q.png" group-title="Kids",MANGAS
 http://212.8.250.27:8080/manga/index.m3u8
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/DwsBbRu.png" group-title="Thematic",CLIQUE TV
+#EXTINF:1 tvg-id="CliqueTV.fr" tvg-language="French" tvg-logo="https://i.imgur.com/DwsBbRu.png" group-title="Thematic",CLIQUE TV
 http://212.8.250.27:8080/cliquetvts/index.m3u8
 
 
@@ -294,11 +294,11 @@ https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
 
 
 ##### 580 #####
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/S5wCwQI.png" group-title="News",RT France
+#EXTINF:1 tvg-id="RTFrance.ru" tvg-language="French" tvg-logo="https://i.imgur.com/S5wCwQI.png" group-title="News",RT France
 https://rt-fra.gcdn.co/live/rtfrance/playlist_4500Kb.m3u8
 
 ##### 900 #####
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/IgmU34B.png" group-title="General",CGTN Français
+#EXTINF:1 tvg-id="CGTNFrancais.cn" tvg-language="French" tvg-logo="https://i.imgur.com/IgmU34B.png" group-title="General",CGTN Français
 http://livefr.cgtn.com/1000f/prog_index.m3u8
 
 
@@ -336,7 +336,7 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:1 tvg-id="3ABNInternational.us" tvg-language="French" tvg-logo="https://i.imgur.com/jfEGuQQ.png" group-title="Religious",3ABN Français
 https://3abn-live.akamaized.net/hls/live/2010546/French/master.m3u8
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/V39CdMx.png" group-title="Other",A12 
+#EXTINF:1 tvg-id="A12TV.fr" tvg-language="French" tvg-logo="https://i.imgur.com/V39CdMx.png" group-title="Other",A12 
 https://video1.getstreamhosting.com:1936/8250/8250/chunklist_w19658444.m3u8
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/WkLLDHy.png" group-title="Other",Air Connect TV
 https://tvmcp.pro-fhi.net:1936/actv/actv/chunklist_w213344087.m3u8
@@ -357,7 +357,7 @@ https://www.dailymotion.com/video/x7zw38l
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/cpxhUVM.png" group-title="Music",D5 Music
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zw8q9
 
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/avByncZ.png" group-title="Other",Dieu TV
+#EXTINF:1 tvg-id="DieuTV.fr" tvg-language="French" tvg-logo="https://i.imgur.com/avByncZ.png" group-title="Other",Dieu TV
 https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/1080.m3u8
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/t4UMc2a.png" group-title="Music",DMB TV
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
@@ -403,16 +403,16 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x85046c
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/UIQkku1.jpg" group-title="Other",LesCroutons TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/lescroutonstv
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/GV4rI5B.png" group-title="Other",LMTV Français
+#EXTINF:1 tvg-id="LMTVFrancais.ci" tvg-language="French" tvg-logo="https://i.imgur.com/GV4rI5B.png" group-title="Other",LMTV Français
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7x3gqy
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/6cJxXxm.png" group-title="Other",LMTV Sarthe
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/xuyx0h
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/aSCUjj5.jpg" group-title="Other",Lyon Capitale TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7z3zqa
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/GANv0qi.png" group-title="Other",Maison&Travaux TV
+#EXTINF:1 tvg-id="MaisonTravauxTV.fr" tvg-language="French" tvg-logo="https://i.imgur.com/GANv0qi.png" group-title="Other",Maison&Travaux TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x85e5l8
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/p1pwujq.png" group-title="Regional",Maurienne TV
-https://www.youtube.com/watch?v=5ARTNKq49WY
+https://streamlive2021.herokuapp.com/iptv-query?streaming-iphttps://www.youtube.com/watch?v=5ARTNKq49WY
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/8n2sBOZ.png" group-title="Advertisement",MDL TV
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/PXbm0hw.png" group-title="Regional",Mosaik Cristal
@@ -447,7 +447,7 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 http://www.filmon.com/vr-streams/6197.high/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/zzfubhC.png" group-title="Religious",StudioQualita 
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC4ZNntU3CyEIH8RGH0n_5bw/live
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/WhO1hmL.png" group-title="Regional",TeleSud
+#EXTINF:1 tvg-id="Telesud.fr" tvg-language="French" tvg-logo="https://i.imgur.com/WhO1hmL.png" group-title="Regional",TeleSud
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7wrxqb
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/ur57Bwk.png" group-title="Regional",Télévision Locale du Choletais
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5aarnv
@@ -469,7 +469,7 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5ct4nu
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/NVubaMv.png" group-title="Regional",TV8 Mont Blanc
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3wqv8b
-#EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/PcePXWU.png" group-title="Other",Tzik TV
+#EXTINF:1 tvg-id="TZiK.fr" tvg-language="French" tvg-logo="https://i.imgur.com/PcePXWU.png" group-title="Other",Tzik TV
 https://5a1178b42cc03.streamlock.net/tzik/tzik/chunklist_w104336932.m3u8
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="" group-title="Regional",Valloire TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/valloiretv
@@ -477,3 +477,7 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.
 https://viavosges.live-kd.com/live/vosgestv/livestream/manifest.mpd
 #EXTINF:1 tvg-id="" tvg-language="French" tvg-logo="https://i.imgur.com/GvqntCo.png" group-title="Other",WeoPicardie
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x63085w
+
+
+
+
