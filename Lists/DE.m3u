@@ -2,37 +2,37 @@
 #EXTINF:1 tvg-id="DasErste.de" tvg-language="German" tvg-logo="https://i.imgur.com/qQbyaRD.png" group-title="Public",Das Erste
 https://mcdn.daserste.de/daserste/int/master_3328.m3u8
 #EXTINF:1 tvg-id="ZDF.de" tvg-language="German" tvg-logo="https://i.imgur.com/fcmQ8MR.png" group-title="Public",ZDF
-http://194.76.186.77:8090/play/a015
+http://79.247.107.114:9981/stream/channelid/1330297236
 #EXTINF:1 tvg-id="3sat.de" tvg-language="German" tvg-logo="https://i.imgur.com/PVT0v0n.png" group-title="Public",3sat
-http://194.76.186.77:8090/play/a03x
+http://79.247.107.114:9981/stream/channelid/951153699
 #EXTINF:1 tvg-id="ARTEDeutsch.fr" tvg-language="German" tvg-logo="https://i.imgur.com/M74fY1f.png" group-title="Public",ARTE Deutsch
-http://194.76.186.77:8090/play/a00w
+http://79.247.107.114:9981/stream/channelid/1573964249
 #EXTINF:1 tvg-id="ARDAlpha.de" tvg-language="German" tvg-logo="https://i.imgur.com/yKSUAPJ.png" group-title="Public",ARD Alpha
-http://194.76.186.77:8090/play/a043
+http://79.247.107.114:9981/stream/channelid/642646356
 #EXTINF:1 tvg-id="RTLDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/VahmIBL.png" group-title="Public",RTL
 https://cdn1.mobiletv.bg/T5/rtl/rtl_794613_850k.m3u8
 #EXTINF:1 tvg-id="Sat1Deutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/kgQ3Ozy.png" group-title="Public",SAT.1
-http://194.76.186.77:8090/play/a00p
+http://79.247.107.114:9981/stream/channelid/1647341645
 #EXTINF:1 tvg-id="ProSiebenDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/iNQU819.png" group-title="Public",ProSieben
-http://194.76.186.77:8090/play/a00q
+http://79.247.107.114:9981/stream/channelid/258823002
 #EXTINF:1 tvg-id="KabelEinsDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/GSeYAjq.png" group-title="Public",Kabel Eins
-http://194.76.186.77:8090/play/a00r
+http://79.247.107.114:9981/stream/channelid/1803932410
 #EXTINF:1 tvg-id="VoxDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/X5y8a3g.png" group-title="Public",VOX
-http://194.76.186.77:8090/play/a019
+http://79.247.107.114:9981/stream/channelid/952714056
 #EXTINF:1 tvg-id="Tele5.de" tvg-language="German" tvg-logo="https://i.imgur.com/Q9DIYjr.png" group-title="Public",TELE 5
-http://194.76.186.77:8090/play/a010
+http://79.247.107.114:9981/stream/channelid/2118538940
 #EXTINF:1 tvg-id="ZDFNeo.de" tvg-language="German" tvg-logo="https://i.imgur.com/a0fpDcS.png" group-title="Public",ZDF Neo
-http://194.76.186.77:8090/play/a016
+http://79.247.107.114:9981/stream/channelid/49179626
 #EXTINF:1 tvg-id="RTLZweiDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/0dDMVLa.png" group-title="Public",RTL Zwei
-http://194.76.186.77:8090/play/a01b
+http://79.247.107.114:9981/stream/channelid/1912877983
 #EXTINF:1 tvg-id="WDRFernsehenKoln.de" tvg-language="German" tvg-logo="https://i.imgur.com/0E2NUIH.png" group-title="Public",WDR 
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8
 #EXTINF:1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-language="German" tvg-logo="https://i.imgur.com/QKhFXgX.png" group-title="Public",SWR Baden-Württemberg
-http://194.76.186.77:8090/play/a00x
+http://79.247.107.114:9981/stream/channelid/467929626
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/QKhFXgX.png" group-title="Public", SWR Rheinland-Pfalz
-http://194.76.186.77:8090/play/a00y
+http://79.247.107.114:9981/stream/channelid/2006611155
 #EXTINF:1 tvg-id="SRFernsehen.de" tvg-language="German" tvg-logo="https://i.imgur.com/SrsLhDk.png" group-title="Public",SR Fernsehen
-http://194.76.186.77:8090/play/a044
+http://79.247.107.114:9981/stream/channelid/723640099
 #EXTINF:1 tvg-id="NDRFernsehenNiedersachsen.de" tvg-language="German" tvg-logo="https://i.imgur.com/IpGZwVP.png" group-title="Public",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/IpGZwVP.png" group-title="Public",NDR Schleswig-Holstein
@@ -73,12 +73,12 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/strea
 #EXTINF:1 tvg-id="Tagesschau24.de" tvg-language="German" tvg-logo="https://i.imgur.com/1oih1Bb.png" group-title="News",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:1 tvg-id="NTV.de" tvg-language="German" tvg-logo="https://i.imgur.com/I4Lpa8W.png" group-title="News",ntv
-http://194.76.186.77:8090/play/a01a
+http://79.247.107.114:9981/stream/channelid/658105302
 #EXTINF:1 tvg-id="Welt.de" tvg-language="German" tvg-logo="https://i.imgur.com/mgetTC8.png" group-title="News",Welt
-http://194.76.186.77:8090/play/a01l
+http://79.247.107.114:9981/stream/channelid/1879546778
 #EXTINF:1 tvg-id="ZDFInfo.de" tvg-language="German" tvg-logo="https://i.imgur.com/Behfv3s.png" group-title="News",ZDF Info
-http://194.76.186.77:8090/play/a03z
-#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/PeFCFIE.png" group-title="News",Bild TV
+http://79.247.107.114:9981/stream/channelid/676273202
+#EXTINF:1 tvg-id="Bild.de" tvg-language="German" tvg-logo="https://i.imgur.com/PeFCFIE.png" group-title="News",Bild TV
 https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
 #EXTINF:1 tvg-id="Phoenix.de" tvg-language="German" tvg-logo="https://i.imgur.com/1RDMgc4.png" group-title="News",Phoenix
 http://80.151.59.124:8000/play/a07c
@@ -90,7 +90,7 @@ https://rt-ger.gcdn.co/live/rtdeutsch/playlist.m3u8
 #EXTINF:1 tvg-id="ServusTVDeutschland.at" tvg-language="German" tvg-logo="https://i.imgur.com/2fcuDwS.png" group-title="Entertainment",Servus TV
 http://188.155.8.185:3280/play/a02t/index.m3u8
 #EXTINF:1 tvg-id="One.de" tvg-language="German" tvg-logo="https://i.imgur.com/XNbCNrP.png" group-title="Entertainment",One
-http://194.76.186.77:8090/play/a042
+http://79.247.107.114:9981/stream/channelid/961004071
 #EXTINF:1 tvg-id="ProSiebenMaxxDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/q5qZ0AO.png" group-title="Entertainment",ProSieben Maxx
 http://185.234.111.36:8003/play/a0b6/index.m3u8
 #EXTINF:1 tvg-id="AnixeHDSerie.de" tvg-language="German" tvg-logo="https://i.imgur.com/QPMP4rI.png" group-title="Entertainment",Anixe HD Serie
@@ -100,10 +100,10 @@ http://109.122.68.51:4000/play/a06h
 #EXTINF:1 tvg-id="ComedyCentralDeutschland.us" tvg-language="German" tvg-logo="https://i.imgur.com/FySa2tV.png" group-title="Entertainment",Comedy Central
 http://188.155.8.185:3280/play/a01y/index.m3u8
 #EXTINF:1 tvg-id="DMAXDeutschland.us" tvg-language="German" tvg-logo="https://i.imgur.com/HLsY1SE.png" group-title="Entertainment",DMAX
-http://194.76.186.77:8090/play/a011
+http://79.247.107.114:9981/stream/channelid/616854551
 #EXTINF:1 tvg-id="TLCGermany.us" tvg-language="German" tvg-logo="https://i.imgur.com/vx4cfuv.png" group-title="Entertainment",TLC Germany
-http://194.76.186.77:8090/play/a00f
-#EXTINF:1 tvg-id="HGTV.de" tvg-language="German" tvg-logo="https://i.imgur.com/HLsY1SE.png" group-title="Entertainment",Home & Garden TV
+http://79.247.107.114:9981/stream/channelid/691118621
+#EXTINF:1 tvg-id="HGTV.de" tvg-language="German" tvg-logo="https://i.imgur.com/AeL02qX.png" group-title="Entertainment",Home & Garden TV
 http://80.151.59.124:8000/play/a071
 #EXTINF:1 tvg-id="Heimatkanal.de" tvg-language="German" tvg-logo="https://i.imgur.com/OqVubf0.png" group-title="Entertainment",Heimat Kanal
 http://80.151.59.124:8000/play/a01p
@@ -112,7 +112,7 @@ http://188.155.8.185:3280/play/a04t/index.m3u8
 #EXTINF:1 tvg-id="RomanceTVDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/iB5qe9B.png" group-title="Entertainment",Romance TV
 http://80.151.59.124:8000/play/a01x
 #EXTINF:1 tvg-id="NitroDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/yglrafR.png" group-title="Entertainment",Nitro TV
-http://194.76.186.77:8090/play/a01x
+http://79.247.107.114:9981/stream/channelid/1997205660
 #EXTINF:1 tvg-id="KinoweltTV.de" tvg-language="German" tvg-logo="https://i.imgur.com/bRogQjV.png" group-title="Entertainment",Kinowelt TV
 https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/b0k3xhF.png" group-title="Entertainment",RTLup
@@ -129,30 +129,30 @@ https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
 #EXTINF:1 tvg-id="Sport1.de" tvg-language="German" tvg-logo="https://i.imgur.com/52flvtG.png" group-title="Sport",Sport 1
 http://188.155.8.185:3280/play/a03o/index.m3u8
 #EXTINF:1 tvg-id="Eurosport1Germany.fr" tvg-language="German" tvg-logo="https://i.imgur.com/Hn0cZgv.png" group-title="Sport",Eurosport 1 HD
-http://194.76.186.77:8090/play/a00m
+http://79.247.107.114:9981/stream/channelid/213154587
 
 #EXTINF:1 tvg-id="KabelEinsDoku.de" tvg-language="German" tvg-logo="https://i.imgur.com/q5gH4Nx.png" group-title="Documentaries",Kabel Eins Doku
-http://194.76.186.77:8090/play/a00u
-#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/lDLR67N.png" group-title="Documentaries",N24 Doku
+http://79.247.107.114:9981/stream/channelid/1180605695
+#EXTINF:1 tvg-id="N24Doku.de" tvg-language="German" tvg-logo="https://i.imgur.com/lDLR67N.png" group-title="Documentaries",N24 Doku
 http://109.122.68.51:4000/play/a06c
 #EXTINF:1 tvg-id="WeltderWunderTV.de" tvg-language="German" tvg-logo="https://i.imgur.com/YJeliey.png" group-title="Documentaries",Welt der Wunder
 https://7a3035467ac8.eu-west-1.playback.live-video.net/api/video/v1/eu-west-1.248654862284.channel.CXJjpBZsIOzL.m3u8
 
 
 #EXTINF:1 tvg-id="KIKA.de" tvg-language="German" tvg-logo="https://i.imgur.com/kv3eJP1.png" group-title="Kids",KIKA
-http://194.76.186.77:8090/play/a03y
+http://79.247.107.114:9981/stream/channelid/1691178686
 #EXTINF:1 tvg-id="NickelodeonDeutschland.us" tvg-language="German" tvg-logo="https://i.imgur.com/Z2WVNCL.png" group-title="Kids",Nickeledon Germany
 http://109.122.68.51:4000/play/a06b
 #EXTINF:1 tvg-id="SuperRTLDeutschland.de" tvg-language="German" tvg-logo="https://i.imgur.com/qZdnYNx.png" group-title="Kids",Super RTL
-http://194.76.186.77:8090/play/a01w
+http://79.247.107.114:9981/stream/channelid/195152207
 #EXTINF:1 tvg-id="ToggoPlus.de" tvg-language="German" tvg-logo="https://i.imgur.com/30hy6YK.png" group-title="Kids",TOGGO Plus
 http://185.234.111.36:8003/play/a0au/index.m3u8
 #EXTINF:1 tvg-id="DisneyChannelDeutschland.us" tvg-language="German" tvg-logo="https://i.imgur.com/xCNuDZV.png" group-title="Kids",Disney Channel
 http://188.155.8.185:3280/play/a01v/index.m3u8
 
 #EXTINF:1 tvg-id="DeluxeMusic.de" tvg-language="German" tvg-logo="https://i.imgur.com/Bu7ZlYQ.png" group-title="Music",Deluxe Music
-http://194.76.186.77:8090/play/a00c
-#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/xZ1z4Yj.png" group-title="Music",Schlager Deluxe
+http://79.247.107.114:9981/stream/channelid/850825534
+#EXTINF:1 tvg-id="SchlagerDeluxe.de" tvg-language="German" tvg-logo="https://i.imgur.com/xZ1z4Yj.png" group-title="Music",Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:1 tvg-id="MTVGermany.us" tvg-language="German" tvg-logo="https://i.imgur.com/kiKxtkd.png" group-title="Music",MTV Germany
 http://109.122.68.51:4000/play/a06a
@@ -204,17 +204,17 @@ https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/master_1080p25.m3u8
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/p4OxOVx.png" group-title="Shopping",HSE Trend
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/master_576_1p25.m3u8
 #EXTINF:1 tvg-id="Juwelo.de" tvg-language="German" tvg-logo="https://i.imgur.com/fANMJbZ.png" group-title="Shopping",Juwelo TV
-http://194.76.186.77:8090/play/a012
+http://79.247.107.114:9981/stream/channelid/732821496
 #EXTINF:1 tvg-id="PearlTV.de" tvg-language="German" tvg-logo="https://i.imgur.com/1voNWj4.png" group-title="Shopping",Pearl TV
 http://109.122.68.51:4000/play/a05a
 #EXTINF:1 tvg-id="Channel21.de" tvg-language="German" tvg-logo="https://i.imgur.com/eooNRYY.png" group-title="Shopping",Channel21
-http://194.76.186.77:8090/play/a00j
+http://79.247.107.114:9981/stream/channelid/48665366
 #EXTINF:1 tvg-id="123TV.de" tvg-language="German" tvg-logo="https://i.imgur.com/BXxmEUv.png" group-title="Shopping",123 TV
-http://194.76.186.77:8090/play/a00b
+http://80.151.59.124:8000/play/a09q
 #EXTINF:1 tvg-id="SonnenklarTV.de" tvg-language="German" tvg-logo="https://i.imgur.com/RxJ68O1.png" group-title="Shopping",Sonnenklar TV
-http://194.76.186.77:8090/play/a00z
+http://109.122.68.51:4000/play/a06m
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/GQxlyGn.png" group-title="Shopping",Handystar TV
-http://194.76.186.77:8090/play/a00h
+http://109.122.68.51:4000/play/a06f
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/GQxlyGn.png" group-title="Shopping",Handystar TV 2
 http://109.122.68.51:4000/play/a06o
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/5j74ikE.png" group-title="Shopping",MediaShop
@@ -261,7 +261,7 @@ https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 http://62.113.210.250/medienasa-live/kulturmd_high/master.m3u8
 #EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/ZEcNfE3.png" group-title="Regional",Lausitzwelle Fernsehen
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/livestreamhd10/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/Jasmeet181/mediaportal-de-logos/master/TV/MDF.1.svg" group-title="Regional",MDF 1
+#EXTINF:1 tvg-id="" tvg-language="German" tvg-logo="https://i.imgur.com/KpH9LrK.png" group-title="Regional",MDF 1
 http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:1 tvg-id="MunchenTV.de" tvg-language="German" tvg-logo="https://i.imgur.com/JgxX12w.png" group-title="Regional",Munchen TV
 https://stream02.stream.welocal.world/stream/fhd-muenchentv_365036/ngrp:stream_all/chunklist_w247607545_b3628000.m3u8
