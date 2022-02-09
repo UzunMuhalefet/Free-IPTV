@@ -1,0 +1,335 @@
+#EXTM3U
+#EXTINF:1 group-title="Aksaray-Merkez-Aksaray Belediyesi",Belediye Önü
+http://185.106.20.233:1935/live/bel1.stream/playlist.m3u8
+#EXTINF:1 group-title="Aksaray-Merkez-Aksaray Belediyesi",Valilik Önü
+http://185.106.20.233:1935/live/bel2.stream/playlist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Ağaoğlu Gondola
+https://live.dgn.net.tr/uludag/93nwbpf7a5/playlist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Beceren Pisti
+https://live.dgn.net.tr/uludag/v6jbtwy4fp/playlist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Cennetkaya
+https://live.dgn.net.tr/uludag/v625y4fp/chunklist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Fahri Telesiyej
+https://live.dgn.net.tr/uludag/bpvt498s5h/chunklist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",İtalyan Pisti
+https://live.dgn.net.tr/uludag/hwp21h2py4/playlist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Karinna
+https://live.dgn.net.tr/uludag/rp6csxceh/playlist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Kırkgözler
+https://live.dgn.net.tr/uludag/4rmxw9t1wp/playlist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Maden
+https://live.dgn.net.tr/uludag/392xsk5f5v/playlist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Tutyeli Alt
+https://live.dgn.net.tr/uludag/v7mx2ab9u5/playlist.m3u8
+#EXTINF:1 group-title="Bursa-Uludağ-Uludağ Info",Tutyeli Vadi
+https://live.dgn.net.tr/uludag/d455gh56p/chunklist.m3u8
+#EXTINF:1 group-title="Çorum-Merkez-Çorum Belediyesi",Akşemseddin Cami
+http://95.0.0.94:1935/live/aksemseddincami.stream/playlist.m3u8
+#EXTINF:1 group-title="Çorum-Merkez-Çorum Belediyesi",Bahabey Kavşağı
+http://95.0.0.94:1935/live/bahabey.stream/playlist.m3u8
+#EXTINF:1 group-title="Çorum-Merkez-Çorum Belediyesi",Gazi Caddesi
+http://95.0.0.94:1935/live/saatkulesi.stream/playlist.m3u8
+#EXTINF:1 group-title="Çorum-Merkez-Çorum Belediyesi",İnönü Caddesi
+http://95.0.0.94:1935/live/inonucaddesi.stream/playlist.m3u8
+#EXTINF:1 group-title="Çorum-Merkez-Çorum Belediyesi",Saat Kulesi
+http://95.0.0.94:1935/live/saatkulesi2.stream/playlist.m3u8
+#EXTINF:1 group-title="Çorum-Merkez-Çorum Belediyesi",Anitta Otel
+http://95.0.0.94:1935/live/anitta.stream/playlist.m3u8
+#EXTINF:1 group-title="Çorum-Merkez-Çorum Belediyesi",Meydan
+http://95.0.0.94:1935/live/TasBinaHavuz.stream/playlist.m3u8
+#EXTINF:1 group-title="Çorum-Merkez-Çorum Belediyesi",Kadeş Meydanı
+http://95.0.0.94:1935/live/kentmeydani.stream/playlist.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Çınar Meydanı
+http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/chunklist_w159491059.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Çınar Meydanı
+http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/chunklist_w26825572.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Teleferik
+http://212.175.207.19:1935/canliyayin/dbbTeleferik.stream/chunklist_w2054510327.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Bağbaşı Yaylası
+http://212.175.207.19:1935/canliyayin/dbbYayla.stream/chunklist_w1811188808.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Laodikeia
+http://212.175.207.19:1935/canliyayin/dbbLaodikya.stream/chunklist_w1281965443.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Çamlık Parkı
+http://212.175.207.19:1935/canliyayin/dbbCamlik.stream/chunklist_w1907799638.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",İncilipınar Parkı
+http://212.175.207.19:1935/canliyayin/dbbIncilipinar.stream/chunklist_w1644859741.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Adalet Parkı
+http://212.175.207.19:1935/canliyayin/dbbAdaletPark.stream/chunklist_w1159329220.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Üçgen Meydanı
+http://212.175.207.19:1935/canliyayin/dbbOtogar.stream/chunklist_w1154350927.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Bayramyeri
+http://212.175.207.19:1935/canliyayin/dbbBayramyeri.stream/chunklist_w661569223.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Denizli Kayak Merkezi M1 Alt İstasyon
+http://212.175.207.19:1935/canliyayin/dbbBozdag.stream/chunklist_w1512248813.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Denizli Kayak Merkezi M1 Üst İstasyon
+http://212.175.207.19:1935/canliyayin/dbbBozdagUst.stream/chunklist_w1702340895.m3u8
+#EXTINF:1 group-title="Denizli-Merkez-Denizli Büyükşehir Belediyesi",Denizli Kayak Merkezi Sosyal Tesisler
+http://212.175.207.19:1935/canliyayin/dbbBozdag2.stream/chunklist_w1079945370.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Akşemsettin Parkı
+https://eyup4.taliavision.com/livestream/hls/aksemsettin1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Akşemsettin Parkı
+https://eyup4.taliavision.com/livestream/hls/aksemsettin2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Arifpaşa Parkı
+https://eyup.taliavision.com//livestream/hls/arifpasa1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Arifpaşa Parkı
+https://eyup.taliavision.com//livestream/hls/arifpasa2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Bir Nefes Parkı
+https://eyup2.taliavision.com/livestream/hls/birnefes1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Bir Nefes Parkı
+https://eyup2.taliavision.com/livestream/hls/birnefes2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Dügmeciler Parkı
+https://eyup.taliavision.com//livestream/hls/dugmeciler/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Emniyettepe Parkı
+https://eyup2.taliavision.com/livestream/hls/emniyettepe1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Emniyettepe Parkı
+https://eyup2.taliavision.com/livestream/hls/emniyettepe2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Erdemliler Parkı
+https://eyup4.taliavision.com/livestream/hls/erdemliler1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Erdemliler Parkı
+https://eyup4.taliavision.com/livestream/hls/erdemliler2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Güzeltepe Parkı
+https://eyup3.taliavision.com/livestream/hls/guzeltepe1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Güzeltepe Parkı
+https://eyup3.taliavision.com/livestream/hls/guzeltepe2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Hz. Halit Parkı
+https://eyup.taliavision.com/livestream/hls/hzhalit1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Hz. Halit Parkı
+https://eyup.taliavision.com/livestream/hls/hzhalit2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Hz. Halit Parkı
+https://eyup.taliavision.com/livestream/hls/hzhalit3/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Özgecan Aslan Parkı
+https://eyup3.taliavision.com/livestream/hls/ozgecan1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Özgecan Aslan Parkı
+https://eyup3.taliavision.com/livestream/hls/ozgecan2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Yağlıdere Parkı
+https://eyup2.taliavision.com/livestream/hls/yaglidere1/index.m3u8
+#EXTINF:1 group-title="İstanbul-Eyüpsultan-Eyüpsultan Belediyesi",Yağlıdere Parkı
+https://eyup2.taliavision.com/livestream/hls/yaglidere2/index.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Şehir Kameraları",Esenler Meydanı
+https://livestream.ibb.gov.tr/cam_sehir/cam_esenler_meydan.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Şehir Kameraları",Sultanbeyli
+https://livestream.ibb.gov.tr/cam_sehir/cam_sultanbeyli_meydan.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Şehir Kameraları",Üsküdar
+https://livestream.ibb.gov.tr/cam_sehir/cam_uskudar.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Şehir Kameraları",Küçükçekmece
+https://livestream.ibb.gov.tr/cam_sehir/cam_kucukcekmece.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Şehir Kameraları",Ortaköy
+https://livestream.ibb.gov.tr/cam_sehir/cam_ortakoy.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Şehir Kameraları",Zeytinburnu
+https://livestream.ibb.gov.tr/cam_sehir/cam_zeytinburnu_meydan.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Bağdat Caddesi 1
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Bağdat Caddesi 2
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Beyazıt Kulesi
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Beyazıt Meydanı
+https://livestream.ibb.gov.tr/cam_turistik/cam_beyazit_meydan.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Büyük Çamlıca
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Dragos
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Eminönü
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Emirgan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Eyüp Sultan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Hidiv Kasrı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",İstiklal Caddesi 1
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_1.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",İstiklal Caddesi 2
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_2.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Karaköy
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_karakoy.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Kız Kulesi
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Metrohan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_metrohan.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Mısır Çarşısı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_misir_carsisi.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Miniatürk
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Pierre Loti
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_pierloti.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Salacak
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_salacak.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Saraçhane
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sarachane.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Sepetçiler Kasrı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sepetciler_kasri.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Sultanahmet 1
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_1.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Sultanahmet 2
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_2.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Taksim Meydanı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_taksim.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Merkez-İBB Turistik Kameralar",Ulus Parkı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Bağcılar-Bağcılar Belediyesi",Halk Sarayı - Nikah Masası
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_59414489d70f5.smil/Playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Bağcılar-Bağcılar Belediyesi",Halk Sarayı - Konuklar
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_5941447a83611.smil/Playlist.m3u8
+#EXTINF:1 group-title="İstanbul-Bağcılar-Bağcılar Belediyesi",Halk Sarayı - Sahne
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_594144367cee4.smil/chunklist_w1434137037_b200000.m3u8
+#EXTINF:1 group-title="İstanbul-Bağcılar-Bağcılar Belediyesi",Halk Sarayı - 1. Takı Salonu
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_594135f45b25e.smil/chunklist_w1130910047_b200000.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Şelale Kavşağı
+http://95.0.155.24/live/selale.stream/playlist.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Boğaziçi Kavşağı
+http://95.0.155.24/live/bogazici.stream/playlist.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Dr. Mustafa Meydanı
+http://95.0.155.24/live/drmustafa.stream/playlist.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Kapalı Çarşı 1
+http://95.0.155.24/live/kapalicarsi1.stream/playlist.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Kapalı Çarşı 2
+http://95.0.155.24/live/kapalicarsi2.stream/playlist.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Elbistan Meydan
+http://95.0.155.24/live/elbistanmeydan.stream/playlist.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Göksun Kavşak
+http://95.0.155.24/live/goksun.stream/playlist.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Pazarcık Meydanı
+http://95.0.155.24/live/pazarcik.stream/playlist.m3u8
+#EXTINF:1 group-title="Kahramanmaraş-Merkez-Kahramanmaraş Belediyesi",Ulucami
+http://95.0.155.24/live/ulucami.stream/playlist.m3u8
+#EXTINF:1 group-title="Kastamonu-Merkez-Kastamonu Belediyesi",Cumhuriyet Meydanı
+http://212.174.162.172:1935/live/cumhuriyetrafik.stream/playlist.m3u8
+#EXTINF:1 group-title="Kastamonu-Merkez-Kastamonu Belediyesi",Cumhuriyet Meydanı
+http://212.174.162.172:1935/live/cumhuriyetturizm.stream/playlist.m3u8
+#EXTINF:1 group-title="Kastamonu-Merkez-Kastamonu Belediyesi",Toklu Tepe
+http://212.174.162.172:1935/live/toklu.stream/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Alaaddin Caddesi 1
+http://konya.sehirkameralari.com/live/56ab52e122769/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Alaaddin Caddesi 2
+http://konya.sehirkameralari.com/live/56a9e456dee18/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Bilim Merkezi
+http://konya.sehirkameralari.com/live/594b78742e13d/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Büyükşehir Belediyesi
+http://konya.sehirkameralari.com/live/52f0d277cb6b1/playlist.m3u8?token=
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Eski Garaj
+http://konya.sehirkameralari.com/live/52f8ac7f0b9c8/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Galericiler Kavşağı
+http://konya.sehirkameralari.com/live/594b8c7fc023a/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Hükümet Meydanı
+http://konya.sehirkameralari.com/live/52f8ac26649e2/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",İhsaniye Kavşağı
+http://konya.sehirkameralari.com/live/52f89f69e3378/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",İnce Minareli Medrese
+http://konya.sehirkameralari.com/live/594b8ece1bb48/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",İstiklal Harbi Şehitleri Abidesi
+http://konya.sehirkameralari.com/live/57066620cdebc/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Karatay Medresesi
+http://konya.sehirkameralari.com/live/52f89f4776f81/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Kayalıpark
+http://konya.sehirkameralari.com/live/52f89fa816e2b/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Kent Plaza Kavşağı
+http://konya.sehirkameralari.com/live/594b8e36e65d3/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Kılıçarslan Gençlik Merkezi
+http://konya.sehirkameralari.com/live/594b8d6ec0d3d/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Kılıçarslan Şehir Meydanı
+http://konya.sehirkameralari.com/live/5902d8e46ae8a/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Kule Kavşağı
+http://konya.sehirkameralari.com/live/52f8ab98bd9de/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Kültürpark
+http://konya.sehirkameralari.com/live/52f8ab6152788/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Mevlana - Üçler Kavşağı
+http://konya.sehirkameralari.com/live/52f8ac9765db4/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Mevlana Caddesi
+http://konya.sehirkameralari.com/live/5f106b8a0102b/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Mevlana Kültür Merkezi
+http://konya.sehirkameralari.com/live/52f8ac0de0eb2/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Mevlana Meydanı
+http://konya.sehirkameralari.com/live/52f8ad56da5f9/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Mobilyacılar Kavşağı
+http://konya.sehirkameralari.com/live/52f8acff68895/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Otogar Kavşağı
+http://konya.sehirkameralari.com/live/52f8ace7aaa21/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Sarraflar Yeraltı Çarşısı
+http://konya.sehirkameralari.com/live/52f8acce91ebc/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Sille Kavşağı
+http://konya.sehirkameralari.com/live/52f8abd1889b0/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Stadyum - Gar Kavşağı
+http://konya.sehirkameralari.com/live/52f8ad3d32ad3/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Türk Yıldızları Parkı
+http://konya.sehirkameralari.com/live/594b8b7dbd75b/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Yeni Meram Caddesi
+http://konya.sehirkameralari.com/live/52f8ab33dccf7/playlist.m3u8
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Zafer Meydanı Gadavet
+http://konya.sehirkameralari.com/live/594b9129ec60f/playlist.m3u8?token=
+#EXTINF:1 group-title="Konya-Merkez-Konya Büyükşehir Belediyesi",Zafer Meydanı Yer Saati
+http://konya.sehirkameralari.com/live/5902d8e46ae8a/playlist.m3u8
+#EXTINF:1 group-title="Muğla-Marmaris-Marmaris Belediyesi",Atatürk Bulvarı
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8
+#EXTINF:1 group-title="Muğla-Marmaris-Marmaris Belediyesi",Belediye
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/belediye/playlist.m3u8
+#EXTINF:1 group-title="Muğla-Marmaris-Marmaris Belediyesi",Bozburun
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8
+#EXTINF:1 group-title="Muğla-Marmaris-Marmaris Belediyesi",İçmeler
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8
+#EXTINF:1 group-title="Muğla-Marmaris-Marmaris Belediyesi",Kordon
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon/playlist.m3u8
+#EXTINF:1 group-title="Muğla-Marmaris-Marmaris Belediyesi",Meydan
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/chunklist_w11552912.m3u8
+#EXTINF:1 group-title="Muğla-Marmaris-Marmaris Belediyesi",Uzunyalı
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8
+#EXTINF:1 group-title="Muğla-Marmaris-Marmaris Belediyesi",Yat Limanı
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/playlist.m3u8
+#EXTINF:1 group-title="Nevşehir-Uçhisar-Uçhisar Belediyesi",Kamera-1
+https://player.rade.com.tr/uchisar/uchisar.stream/playlist.m3u8
+#EXTINF:1 group-title="Nevşehir-Uçhisar-Uçhisar Belediyesi",Kamera-2
+https://player.rade.com.tr/uchisar/uchisar2.stream/playlist.m3u8
+#EXTINF:1 group-title="Niğde-Merkez-Niğde Belediyesi",Çarşı-1
+https://edge1.socialsmart.tv/nigdebelediyesi/cam1/chunks.m3u8
+#EXTINF:1 group-title="Niğde-Merkez-Niğde Belediyesi",Çarşı-2
+https://edge1.socialsmart.tv/nigdebelediyesi/cam2/chunks.m3u8
+#EXTINF:1 group-title="Niğde-Merkez-Niğde Belediyesi",Özbelde Millet Bahçesi
+https://edge1.socialsmart.tv/nigdebelediyesi/cam3/chunks.m3u8
+#EXTINF:1 group-title="Samsun-Havza-Havza Belediyesi",Havza
+mms://88.250.200.142:1375
+#EXTINF:1 group-title="Sivas-Merkez-Sivas Belediyesi",Aksu
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_aksu/playlist.m3u8
+#EXTINF:1 group-title="Sivas-Merkez-Sivas Belediyesi",Kent Meydanı
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_meydan/playlist.m3u8
+#EXTINF:1 group-title="Sivas-Merkez-Sivas Belediyesi",Medreseler
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_medrese/playlist.m3u8
+#EXTINF:1 group-title="Sivas-Merkez-Sivas Belediyesi",Meraküm
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_merakum/playlist.m3u8
+#EXTINF:1 group-title="Sivas-Merkez-Sivas Belediyesi",Yukarı Tekke
+http://mn-nl.mncdn.com/sivasbel_tv_live/sivasbel_tekke/playlist.m3u8
+#EXTINF:1 group-title="Sivas-Zara-Zara Belediyesi",Meydan
+https://stream.arvas.com.tr/meydan.m3u8
+#EXTINF:1 group-title="Sivas-Zara-Zara Belediyesi",Dörtyol
+https://stream.arvas.com.tr/dortyol.m3u8
+#EXTINF:1 group-title="Sivas-Zara-Zara Belediyesi",Millet Bahçesi
+https://stream.arvas.com.tr/belediye.m3u8
+#EXTINF:1 group-title="Şanlıurfa-Merkez-Şanlıurfa Belediyesi",Abide Kavşağı
+http://media.sanliurfa.bel.tr:1935/AbideKavsagi/abide_1/abide_1.stream_720p/playlist.m3u8
+#EXTINF:1 group-title="Şanlıurfa-Merkez-Şanlıurfa Belediyesi",Balıklıgöl
+http://media.sanliurfa.bel.tr:1935/AbideKavsagi/balikligol/balikligol3.stream_720p/playlist.m3u8
+#EXTINF:1 group-title="Şanlıurfa-Merkez-Şanlıurfa Belediyesi",Belediye Önü
+http://media.sanliurfa.bel.tr:1935/AbideKavsagi/bld_onu/bld_onu.stream_720p/playlist.m3u8
+#EXTINF:1 group-title="Şanlıurfa-Merkez-Şanlıurfa Belediyesi",Şehir Genel Görünüm
+http://media.sanliurfa.bel.tr:1935/AbideKavsagi/abide_2/abide_2.stream_720p/playlist.m3u8
+#EXTINF:1 group-title="Şanlıurfa-Merkez-Şanlıurfa Belediyesi",Urfa Kalesi
+http://media.sanliurfa.bel.tr:1935/AbideKavsagi/balikligol4/balikligol4.stream_720p/playlist.m3u8
+#EXTINF:1 group-title="Tekirdağ-Merkez-Tekirdağ Belediyesi",Süleymanpaşa - Balıkçı Limanı
+http://wowza.tekirdag.bel.tr:1935/sahil/sahil.stream/chunklist_w1140208261.m3u8
+#EXTINF:1 group-title="Tokat-Merkez-Tokat Belediyesi",Cumhuriyet Meydanı
+http://212.156.98.150:1936/Kamera/Meydan.stream/playlist.m3u8
+#EXTINF:1 group-title="Tokat-Merkez-Tokat Belediyesi",Stadyum Önü
+http://212.156.98.150:1936/Kamera/Stadyum.stream/playlist.m3u8
+#EXTINF:1 group-title="Tokat-Merkez-Tokat Belediyesi",Tokat Kalesi
+http://212.156.98.150:1936/Kamera/Kale.stream/playlist.m3u8
+#EXTINF:1 group-title="Isparta-Yalvaç-Yalvaç Belediyesi",PTT Önü
+http://195.175.107.10:8080/hls2/liv2.m3u8
+#EXTINF:1 group-title="Isparta-Yalvaç-Yalvaç Belediyesi",Hükümet Konağı
+http://195.175.107.10:8080/hls3/liv3.m3u8
+#EXTINF:1 group-title="Isparta-Yalvaç-Yalvaç Belediyesi",Yeni Camii
+http://195.175.107.10:8080/hls4/liv4.m3u8
+#EXTINF:1 group-title="Isparta-Yalvaç-Yalvaç Belediyesi",Anlatan Meydan
+http://195.175.107.10:8080/hls5/liv5.m3u8
+#EXTINF:1 group-title="Isparta-Yalvaç-Yalvaç Belediyesi",Çınaraltı
+http://195.175.107.10:8080/hls1/liv1.m3u8
+#EXTINF:1 group-title="İstanbul-Esenyurt-Esenyurt Belediyesi",Meclis
+https://592f1881b3d5f.streamlock.net:1443/santraltv_349/santraltv_349/chunklist_w1433308811.m3u8
