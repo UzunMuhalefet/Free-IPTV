@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:1 group-title="Austria",Krems Langenlois Airfield
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqTXVVS_hARDBgxzbYd37mA
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCqTXVVS_hARDBgxzbYd37mA/live
 #EXTINF:1 group-title="Austria",Spitzerberg Airfield
 https://spitzerberg.at/webcam/stream.m3u8
 
 #EXTINF:1 group-title="Brazil",Angra Dos Reis Airport
 https://inst-bdqdj-srs-fullhd.camerite.services/record/3770ef20-7331-11e8-ba78-479994691bb9.stream/playlist.m3u8
 #EXTINF:1 group-title="Brazil",Rio de Janeiro/Galeão Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNKQAsFBh59t4IixJDJYz-Q
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNKQAsFBh59t4IixJDJYz-Q/live
 #EXTINF:1 group-title="Brazil",Sao Paulo Guarulhos International Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNZCKDhAVtbh7sddChTxI7w
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCNZCKDhAVtbh7sddChTxI7w/live
 #EXTINF:1 group-title="Brazil",Varginha Airport
 http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
-#EXTINF:1 group-title="Brazil",Varginha Airport
+#EXTINF:1 group-title="Brazil",Varginha Airport 2
 http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
 
 #EXTINF:1 group-title="Canada",Saint-Jean Airport
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/apphcyjn
 #EXTINF:1 group-title="Canada",Victoria International Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCfi1E_tEBXZeeHsFpSG2dLw
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCfi1E_tEBXZeeHsFpSG2dLw/live
 
 #EXTINF:1 group-title="Croatia",Rab Island Harbour Airport
 https://cdn-001.whatsupcams.com/hls/hr_rab02.m3u8
@@ -26,7 +26,7 @@ https://cdn-001.whatsupcams.com/hls/hr_rab02.m3u8
 https://cdn-004.whatsupcams.com/hls/hr_split04.m3u8
 
 #EXTINF:1 group-title="Czechia",Prague Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCF7gGGK5faKRXZExCSp1Vyw
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCF7gGGK5faKRXZExCSp1Vyw/live
 #EXTINF:1 group-title="Czechia",Prague Airport
 https://vwrjffrka3.gjirafa.net/live/rcBFeREIqcMkNthqI6YCr3Riss97l2MC/t0g0gg.m3u8
 
@@ -66,8 +66,7 @@ https://stream-5gw.1000eyes.de/cupertino/hamDDFB28.stream/chunklist_w872462835.m
 #EXTINF:1 group-title="Germany",Hamburg Airport
 https://stream-5gw.1000eyes.de/cupertino/hamDD9CCF.stream/chunklist_w97481094.m3u8
 #EXTINF:1 group-title="Germany",Wyk Auf Fohr Airfield
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSDARkfMeps8sDFCOSQAqGg
-
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSDARkfMeps8sDFCOSQAqGg/live
 
 #EXTINF:1 group-title="Greece",Corfu International Airport
 https://corfulive.gr/laveranda/laveranda.m3u8
@@ -98,15 +97,15 @@ https://live.qab.co.jp/live/livenahacity.smil/chunklist_w895135792_b2000000.m3u8
 #EXTINF:1 group-title="Japan",Naha Okinawa Airport
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCWzx-v_6kdTKi3oXhWOK1FA/live
 #EXTINF:1 group-title="Japan",Narita International Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvJZPd6aw2lb54M4E-vtwjw
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvJZPd6aw2lb54M4E-vtwjw/live
 #EXTINF:1 group-title="Japan",Okayama Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCAzaZfwgfjYVRGn4S60xM6Q
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCAzaZfwgfjYVRGn4S60xM6Q/live
 #EXTINF:1 group-title="Japan",Osaka Itami Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCur21TajiRsI1Da1GLzv7Lg
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCur21TajiRsI1Da1GLzv7Lg/live
 #EXTINF:1 group-title="Japan",Tokyo Narita Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwO5xVV7ARD6asrMDX9CwA
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwO5xVV7ARD6asrMDX9CwA/live
 #EXTINF:1 group-title="Japan",Tokyo Narita Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvJZPd6aw2lb54M4E-vtwjw
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvJZPd6aw2lb54M4E-vtwjw/live
 #EXTINF:1 group-title="Japan",Yonago Airport
 http://210.156.16.242:1935/live/11-yumeminato/chunklist_w1915353590.m3u8
 
@@ -136,7 +135,7 @@ https://5ee71ff03d9d1.streamlock.net:4444/EPGD/app29.stream/chunklist_w744066966
 #EXTINF:1 group-title="Poland",Gdansk Airport
 https://5ee71ff03d9d1.streamlock.net:4444/EPGD/ppsy.stream/chunklist_w1659664740.m3u8
 #EXTINF:1 group-title="Poland",Krakow International Airport
-https://hoktastream1.webcamera.pl/krakow_cam_66c146/krakow_cam_66c146.stream/chunks.m3u8?nimblesessionid=152493346
+https://hoktastream1.webcamera.pl/krakow_cam_66c146/krakow_cam_66c146.stream/chunks.m3u8
 #EXTINF:1 group-title="Poland",Lodz Airport
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek1.m3u8
 #EXTINF:1 group-title="Poland",Lodz Airport
@@ -176,7 +175,7 @@ https://hoktastream1.webcamera.pl/willawidokowa_cam_eefa62/willawidokowa_cam_eef
 https://cdn-004.whatsupcams.com/hls/si_ljpz1.m3u8
 
 #EXTINF:1 group-title="Spain",Malaga Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCd3-NYoslM4KN99HFV4d9GA
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCd3-NYoslM4KN99HFV4d9GA/live
 
 #EXTINF:1 group-title="Sweden",Molde Airport
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5_UEwpA9D5p5TjbfI5Ys6w/live
@@ -184,15 +183,23 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 #EXTINF:1 group-title="United Kingdom",Barrow Walney Island Airport
 https://camsecure.uk/HLS/owenbayliss.m3u8
 #EXTINF:1 group-title="United Kingdom",Breighton Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCq5xCEeQyc4_9BS3Wuv7CjQ
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCq5xCEeQyc4_9BS3Wuv7CjQ/live
 #EXTINF:1 group-title="United Kingdom",Brighton City Airport
 https://n1.cdn.jetstre.am/session/40a55f3d6ef5e97ff7d6152cc16a9260/sz/streamdays/wowza4/live/brightoncityairport/chunklist.m3u8
 #EXTINF:1 group-title="United Kingdom",Brighton City Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcjlnrL3_LV4fC9CcrHth7w
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcjlnrL3_LV4fC9CcrHth7w/live
+#EXTINF:1 group-title="United Kingdom",Gibraltar
+https://camsecure.uk/HLS/meteo.m3u8
 #EXTINF:1 group-title="United Kingdom",Jersey Airport
 https://edge01.london.nginx.hdontap.com/hosb3/watersplash_visitjersey.stream/chunklist_w1596340837.m3u8
 #EXTINF:1 group-title="United Kingdom",Leicester Airport
 https://camsecure.co/HLS/leicesterair.m3u8
+#EXTINF:1 group-title="United Kingdom",Manchester City Airport
+https://camsecure.co/HLS/cityair.m3u8
+#EXTINF:1 group-title="United Kingdom",Manchester City Airport
+https://camsecure.co/HLS/cityair2.m3u8
+#EXTINF:1 group-title="United Kingdom",Manchester City Airport
+https://camsecure.co/HLS/cityair4.m3u8
 #EXTINF:1 group-title="United Kingdom",Oban Airport
 https://camsecure.co/HLS/bts.m3u8
 #EXTINF:1 group-title="United Kingdom",Redhill Airport
@@ -206,13 +213,13 @@ https://uk-lon-edge-02.zetcast.net/SumburghAirport2_abr/SumburghAirport2ABR/Sumb
 
 
 #EXTINF:1 group-title="United States",Anchorage International Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/StreamTimeLive/
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/StreamTimeLive//live
 #EXTINF:1 group-title="United States",Atlanta Hartsfield-Jackson Airport 
 https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt2-rtmp-v3/live_720p30.m3u8
 #EXTINF:1 group-title="United States",Atlanta Hartsfield-Jackson Airport 
 https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt3-rtmp-v3/live_720p30.m3u8
 #EXTINF:1 group-title="United States",Burlington Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC82P9YQe3GsWDQSGKzBj_5w
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC82P9YQe3GsWDQSGKzBj_5w/live
 #EXTINF:1 group-title="United States",California Big Bear City
 https://edge01.london.nginx.hdontap.com/hosb3/bbad_ptz.stream/chunklist_w1009695347.m3u8
 #EXTINF:1 group-title="United States",Clermont County Airport
@@ -230,13 +237,13 @@ https://cdn-unified-hls.streamspot.com/ingest1/b5c81a5f1c/chunklist.m3u8?origin=
 #EXTINF:1 group-title="United States",Dallas-Fort Worth Airport 
 https://kxaslive-f.akamaihd.net/i/KXAS_SC7@791092/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:1 group-title="United States",Dallas Love Field Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdiPSngCBBo_6DBbj7oWNow
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdiPSngCBBo_6DBbj7oWNow/live
 #EXTINF:1 group-title="United States",Eagle County Airport
 https://wowzaprod122-i.akamaihd.net/hls/live/515878/27ef35a4/27ef35a4_1_1152/chunklist.m3u8
 #EXTINF:1 group-title="United States",Fort Lauderdale Airport
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.earthcam.com/usa/florida/fortlauderdale/marina/?cam=lauderdalemarina
 #EXTINF:1 group-title="United States",Friday Harbor Airport
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCM0qV6ZHBkjxBokQepECyFg
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCM0qV6ZHBkjxBokQepECyFg/live
 #EXTINF:1 group-title="United States",Glenwood Springs Airport
 https://2-fss-2.streamhoster.com/pl_126/200612-1195934-1/chunklist.m3u8
 #EXTINF:1 group-title="United States",Glenwood Springs Airport
@@ -245,10 +252,26 @@ https://2-fss-2.streamhoster.com/pl_126/200612-1195930-1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_126/200612-1195932-1/chunklist.m3u8
 #EXTINF:1 group-title="United States",Independence State Airport
 https://5ddd47d64e730.streamlock.net:444/jeannesflyingservice1/jeannesflyingservice1.stream/chunklist_w1266566556.m3u8
+#EXTINF:1 group-title="United States",Mountain Air
+https://wowza.skyrunner.net/mtnair/ch0.stream/playlist.m3u8
+#EXTINF:1 group-title="United States",Mountain Air
+https://wowza.skyrunner.net/mtnair/ch2.stream/playlist.m3u8
+#EXTINF:1 group-title="United States",Mountain Air
+https://wowza.skyrunner.net/mtnair/ch3.stream/playlist.m3u8
+#EXTINF:1 group-title="United States",Mountain Air
+https://wowza.skyrunner.net/mtnair/ch1.stream/playlist.m3u8
 #EXTINF:1 group-title="United States",NAS North Island Air Base
 https://595b9deb3d6ac.streamlock.net/rtplive/sandiego.stream/chunklist_w756110790.m3u8
+#EXTINF:1 group-title="United States",New Castle County Airport
+http://8.43.23.19:1935/live/ILGRearPL1.stream/chunklist_w642166793.m3u8
+#EXTINF:1 group-title="United States",New Castle County Airport
+http://8.43.23.19:1935/live/ILGRearPL2.stream/chunklist_w464179371.m3u8
+#EXTINF:1 group-title="United States",New Castle County Airport
+http://8.43.23.19:1935/live/ILGFrontPL1.stream/chunklist_w281547713.m3u8
+#EXTINF:1 group-title="United States",New Castle County Airport
+http://8.43.23.19:1935/live/ILGFrontPL2.stream/chunklist_w1472209186.m3u8
 #EXTINF:1 group-title="United States",Palm Springs Air Museum
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjWe8BwpE1VdWNuNI9ILAKQ
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjWe8BwpE1VdWNuNI9ILAKQ/live
 #EXTINF:1 group-title="United States",Roanoke Regional Airport
 https://d1tj3emjaoxhx8.cloudfront.net/out/v1/92c6e429920c423fbe81bbe64af45a23/index_2.m3u8
 #EXTINF:1 group-title="United States",San Diego International Airport
@@ -257,6 +280,8 @@ https://edge01.london.nginx.hdontap.com/hosb7/ngrp:contour-lofts_downtown-sd_4k-
 https://vstream.command.verkada.com/filter/transcode/v2_c87b4a4fc792151923f32e4de9c12fd6/bb0d521f-72fe-4a85-a29c-32cfb4450aa3/low_res/livevideo.m3u8
 #EXTINF:1 group-title="United States",Santa Maria Airport
 https://vstream.command.verkada.com/filter/transcode/v2_49a8ede9fb64eb8f2a121069b3faf5f1/92d8fd85-f717-4483-ae90-3ee826ab02a7/low_res/livevideo.m3u8
+#EXTINF:1 group-title="United States",The Port Camas-Washougal
+https://5f9f690034fb0.streamlock.net:444/washougalairport/washougalairport.stream/chunklist_w1025270435.m3u8
 #EXTINF:1 group-title="United States",Truckee Tahoe Airport
 https://edge01.london.nginx.hdontap.com/hosb3/ktrk_abr_ttv.stream/chunklist_w248214565.m3u8
 #EXTINF:1 group-title="United States",Whiteside County Airport
