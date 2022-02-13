@@ -333,6 +333,8 @@ http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTr00Butm_gEZmbUz_KI9gg
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a1e26fbf-851a-4aeb-a3e6-8294132be486.png" group-title="Dini",Nur TV
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCW9SRQR959QnMXEWDKNYHeg/live
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2f571ff6-94ab-4c1c-a75f-21e1b2114362.png" group-title="Dini",İkra TV
+https://cdn10-365tv.yayin.com.tr/365tv/365tv/playlist.m3u8
 #EXTINF:1 tvg-id="QuranTV.sa" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/081083b4-62b6-43b1-b9c2-10035c60ad90.png" group-title="Dini",Al Quran Al Kareem TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:1 tvg-id="SunnaTV.sa" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a03f8315-fa11-4d3c-b73b-cf5fcac6ea8c.png" group-title="Dini",Al Sunnah Al Nabawiyah
@@ -570,6 +572,8 @@ https://59cba4d34b678.streamlock.net/canlitv/arttv/chunklist_w1071760387.m3u8
 https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d35884a5-bb01-4791-9952-9ac699a41eaa.png" group-title="Yerel",A Türk
 https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/85d90f75-ce8e-40b3-9d30-f0e686b4c671.png" group-title="Yerel",Bahar Türk
+http://baharturktv.radyotvyayini.com:1935/baharturktv/baharturktv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7d49b2d4-aab5-48f4-b3d6-928f40a2288f.png" group-title="Yerel",Bartın TV
 http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 #EXTINF:1 tvg-id="BitlisTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/079d2ac5-346b-4813-bd5d-b2beef744ea9.png" group-title="Yerel",Bitlis TV
