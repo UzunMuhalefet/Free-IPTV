@@ -907,7 +907,7 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/YansinemaTV/chunklist_w180625
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8497177d-9eee-43d3-bb91-89e6c9ab4956.jpg" group-title="Özel",Yansıma Premium
 https://hls-eu.loola.tv/hlspush/Lmcvr-Z1OoTuT.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e0bf8ec6-0d67-4771-a8c8-bf4429e2a7a7.png" group-title="Özel",Yansıma Sinema
-https://hls-eu.loola.tv/hlspush/9dRqI-28gsj3.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 
 
 #EXTINF:1 tvg-id="TRTWorld.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/df768c9f-16ee-4897-94f5-fd67ffff528e.png" group-title="World",TRT World
@@ -917,7 +917,7 @@ https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="ANews.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d6d2fcb6-fd0e-4464-a467-c75294d911ae.png" group-title="World",A News
 http://mugla.tvizlehd.com/live/anews.m3u8
 #EXTINF:1 tvg-id="TurkmeneliTV.iq" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/45d55442-b4ef-4450-8a05-3950c9a4e0a8.png" group-title="World",Türkmeneli TV
-http://185.236.229.50:8000/play/a01n
+http://45.94.31.190:7004/play/a0bt
 
 
 #EXTINF:1 tvg-id="ARB.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" group-title="Azerbaycan",ARB
@@ -945,7 +945,7 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:1 tvg-id="FTV.az" tvg-language="Azerbaijani" tvg-logo="https://ftv.az/assets/img/logo/logo.png" group-title="Azerbaycan",FTV
 https://str2.yodacdn.net/publive/ftv/video.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gunaztv.default.png" group-title="Azerbaycan",GünAz TV
-http://gtv.live.cdn.bitgravity.com/gtv/live/feed03
+https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist_w147285732_b450000.m3u8
 #EXTINF:1 tvg-id="IctimaiTV.az" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/qEQzBiV.png" group-title="Azerbaycan" group-title="Azerbaycan",Ictimai TV
 http://mugla.tvizlehd.com/live/ictimaitv.m3u8
 #EXTINF:1 tvg-id="IdmanTV.az" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" group-title="Azerbaycan",Idman TV
