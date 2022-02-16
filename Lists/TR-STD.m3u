@@ -997,6 +997,15 @@ https://europe2.livetv.az/azerbaijan/livetv/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/R1OkP8j.png" group-title="Azerbaycan",Ses TV
 http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 
-
-
-
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/PLhsCG0.png" group-title="Kırım",ATR TV
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://i.imgur.com/nfavDqU.png" group-title="Kırım",Lale TV
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish;Russian;Ukrainian" tvg-logo="https://i.imgur.com/TcxpGA7.png" group-title="Kırım",Millet TV
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/VtH3l8z.png" group-title="Kırım",Crimea 1
+https://mrlive.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Ukrainian;Russian" tvg-logo="https://i.imgur.com/c5kTqta.png" group-title="Kırım",Crimea 24
+https://simf.1tvcrimea.ru/show/simferopol24/chunks.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Ukrainian;Russian;Turkish" tvg-logo="https://i.imgur.com/6dcWREE.png" group-title="Kırım",Black Sea TV
+https://live-blackseatv.cdnvideo.ru/blackseatv/blackseatv.sdp/chunklist.m3u8
