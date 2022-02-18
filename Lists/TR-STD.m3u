@@ -238,6 +238,8 @@ https://yayin.santraltr.com/hls/toppop.m3u8
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/21e03597-2c09-4a5c-aac0-d9ffdf154c91.png" group-title="Müzik-2",Aktüel Bursa TV
 http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eac70546-b5c6-4d43-9a85-5a4266d49a9f.png" group-title="Müzik"-2,Ankara Ses TV
+https://host.onlineradyotv.net:9999/ankarasestv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e8afc6b0-90a5-4c3c-99f7-43fda09ddddb.png" group-title="Müzik-2",Demo TV
 http://fidece38941.ozelip.com:2052/demotv/demotv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/65d07242-3074-4337-8577-b6869ad90378.png" group-title="Müzik-2",Diamond Production TV
@@ -250,6 +252,8 @@ http://fidece38941.ozelip.com:2052/genckraltv/genckraltv/chunklist.m3u8
 https://tv170.ozelip.com:1936/genckralicetv/genckralicetv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/29e72de4-dcdd-4ff4-9383-7f92692c1745.png" group-title="Müzik-2",Kardeş TV
 http://yayin25.canliyayin.org:1935/live/kardestv/chunklist_w377070491.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" group-title="Müzik-2",Marmara TV
+https://host.onlineradyotv.net:9999/marmaratv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1ed44dfe-415f-4cf5-b58c-70a0d78ded5a.png" group-title="Müzik-2",Mega TV İskenderun
 https://tv170.ozelip.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/302f187e-9acf-453d-80e9-4e4dcf4cdf80.png" group-title="Müzik-2",Müzik Habercisi
@@ -632,7 +636,7 @@ https://iptv.egeturk.tv/iptv/canliyayin/playlist.m3u8
 https://mugla.tvizlehd.com/live/ekintv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/45c9e181-b559-41c4-a5c7-8e7acc444464.png" group-title="Yerel",Elmas 67 TV
 https://5be5d840359c6.streamlock.net/elmas67tv/elmas67tv/chunklist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9a67b40c-7229-430b-8457-d7b1e270f69f.webp" group-title="Yerel",Erciş TV
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/5901cdbd-053c-46aa-a4da-460049e1a0fd.png" group-title="Yerel",Erciş TV
 https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist_w578647644_b1594368.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a9317aed-f93f-4437-8763-9dc0b1059826.png" group-title="Yerel",Erciyes TV
 https://59cba4d34b678.streamlock.net/canlitv/erciyestv/chunklist_w1103862390.m3u8
