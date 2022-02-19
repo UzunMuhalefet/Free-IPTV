@@ -14,7 +14,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:1 tvg-id="Kanal7.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/ce2fa5d6-80be-4db3-88cc-493a8a3ea655.png" group-title="Ulusal",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:1 tvg-id="TV8.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/394c5a3d-de9f-4a05-a268-ea8100d7e7ea.png" group-title="Ulusal",TV8
-http://190.2.148.141:80/bar1118/index.m3u8
+http://istanbul.tvizlehd.com/live/tv8720.m3u8
 #EXTINF:1 tvg-id="StarTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" group-title="Ulusal",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:1 tvg-id="360.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" group-title="Ulusal",360 TV
@@ -238,7 +238,7 @@ https://yayin.santraltr.com/hls/toppop.m3u8
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/21e03597-2c09-4a5c-aac0-d9ffdf154c91.png" group-title="Müzik-2",Aktüel Bursa TV
 http://hd9994.4kradyotv.com:26606/aktuel/aktuel/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eac70546-b5c6-4d43-9a85-5a4266d49a9f.png" group-title="Müzik"-2,Ankara Ses TV
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/eac70546-b5c6-4d43-9a85-5a4266d49a9f.png" group-title="Müzik-2",Ankara Ses TV
 https://host.onlineradyotv.net:9999/ankarasestv/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/e8afc6b0-90a5-4c3c-99f7-43fda09ddddb.png" group-title="Müzik-2",Demo TV
 http://fidece38941.ozelip.com:2052/demotv/demotv/playlist.m3u8
@@ -396,6 +396,8 @@ https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCF_kXNn9vCMsw_g_L-v4VHw/live
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/884dc1a9-d054-497d-ae23-11bfe8dc2775.png" group-title="Kurumlar",Altso Web TV
 https://edge1.socialsmart.tv/altsowebtv/bant1/chunks.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/98813964-2952-442c-822f-4dafdff48a29.png" group-title="Kurumlar",Angara TV - Keçiören Belediyesi
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/4fdc2ced-2001-4125-bcd2-ad957d43d3ce.png" group-title="Kurumlar",Arnavutköy Belediyesi Web TV
 https://cdn1-arnavutkoybeltv.yayin.com.tr/arnavutkoybeltv/arnavutkoybeltv/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a8138831-188a-43da-96ef-655a1e84bd5a.png" group-title="Kurumlar",Belediye TV
@@ -507,8 +509,6 @@ http://51.254.48.123:2052/tctv/tctv/chunklist.m3u8
 http://live.arkumedia.com:1935/tr6tv/tr6tv/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/06f90010-02f0-4ce4-8389-6ef02f78b5f5.png" group-title="Diğer",tv500
 https://tv170.ozelip.com:1936/tv500/tv500/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f8f76812-e45f-471a-bbb0-dd5e9e86f6dc.png" group-title="Diğer",TV Adige
-https://tv170.ozelip.com:1936/tvadige/tvadige/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/da31dd85-0126-4dcb-9270-18e0e7c2efbc.png" group-title="Diğer",TV Mor
 http://live.arkumedia.com:1935/tvmor/tvmor/chunklist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/afb44c3a-310a-47ed-9837-b3f80d35fed8.jpg" group-title="Diğer",Uluslararası TV
@@ -906,8 +906,6 @@ http://fidece38941.ozelip.com:2052/kesteltv/kesteltv/playlist.m3u8
 http://hd9994.4kradyotv.com:26606/smh61/smh61/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0ff2c160-891b-4839-b023-31e1b4435a47.gif" group-title="Özel",Misket TV
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3892
-#EXTINF:1 tvg-id="" tvg-language="Turkish" group-title="Özel",MMN Radio Turkey
-http://190.2.148.141:80/bar7640/index.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/99a5c4d7-3f86-44e8-8a90-57f348faed66.png" group-title="Özel",Özburun TV
 http://yilmaz.srfms.com:1935/yilmaz/livestream/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0e0f18e8-8ff9-498b-bb58-59cda1a1eede.png" group-title="Özel",Özgür Medya TV
@@ -918,14 +916,6 @@ https://tv170.ozelip.com:1936/sertv/sertv/chunklist.m3u8
 https://live-server-2.splitstream.io/7b0acd53-acd9-4e54-a672-f17cc97480f3/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" group-title="Özel",Şişli TV
 http://cwebtv1920.ozelip.com:21298/sislitv/sislitv/playlist.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="Özel",TBRT Kanal 1
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title="Özel",TBRT Kanal 6
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title="Özel",TBRT Teleon Plus
-http://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/15ac1875-9023-4cd9-a7a8-41b54c8e9cc3.png" group-title="Özel",TBRT Yeşilçam
-http://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1a02b73c-e91b-4281-8069-002e306edf79.png" group-title="Özel",TiviTürk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/460d6d63-33ee-44f7-a314-9d3234eabffb.png" group-title="Özel",Turkuvaz Kovboy
@@ -1019,8 +1009,6 @@ https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" group-title="Azerbaycan",Baku TV
 https://rtmp.baku.tv/live/bakutv_1080p.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/rgC0xqO.png" group-title="Azerbaycan",Gem AZ
-https://GLWizHSTB50.glwiz.com:443/GemAZ_HD.m3u8?user=sgls76551&session=ab939ad6788f71b02b7e837cde265cf74ceb4859d3924abb5745d1930ac4be190cdeca9cfc850884&group_id=76551
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/e97edGu.png" group-title="Azerbaycan",Hadi TV AZ
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/HGAYIQb.png" group-title="Azerbaycan",Kanal Turan
