@@ -260,6 +260,8 @@ https://tv170.ozelip.com:1936/megatv/megatv/playlist.m3u8
 https://tv170.ozelip.com:1936/muzik/muzik/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f3c3bcfc-ae65-4297-be51-d25622880c78.png" group-title="Müzik-2",Pala TV
 http://fidece38941.ozelip.com:2052/palatv/palatv/chunklist.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/166fe401-3fef-42c6-a6a4-3285eace3a8b.png" group-title="Müzik-2",Seda TV
+http://tv56245.ozelip.com:2052/tvoncu/tvoncu/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a7919f7c-d026-45cf-ac50-158c65f45a65.png" group-title="Müzik-2",Moda FM TV
 http://modafm52300.ozelip.com:28008/modafm/modafm/chunklist_w1385220734.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bd373de5-ea2b-4ec5-a6f7-0ae52f8ba955.jpg" group-title="Müzik-2",Radyo Esenyurt
@@ -834,8 +836,6 @@ http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 http://canli.tvden.com.tr/hls/live.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0fb314f9-1f13-4a48-b185-2a9976f8aeb5.png" group-title="Yerel",TV Kayseri
 https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/chunklist_w67345745.m3u8
-#EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7a68ae4b-30bb-4f90-9a25-7b24f2350251.png" group-title="Yerel",TV Öncü
-http://tv56245.ozelip.com:2052/tvoncu/tvoncu/playlist.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6fa59b48-ef33-4f75-ae6a-0ae836ae2410.png" group-title="Yerel",Urfanatik TV
 https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/79f93e01-bdec-44dd-b7f1-6f4ff68e34da.png" group-title="Yerel",Ün TV
