@@ -940,7 +940,7 @@ https://hls-eu.loola.tv/hlspush/Z2pqoNJ-ZSgMq9.m3u8
 
 
 #EXTINF:1 tvg-id="TRTWorld.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/df768c9f-16ee-4897-94f5-fd67ffff528e.png" group-title="World",TRT World
-http://85.187.244.105:54541
+https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="TRTArabi.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4663d02-78f2-4a86-8561-122ec175fe94.png" group-title="World",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1 tvg-id="ANews.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d6d2fcb6-fd0e-4464-a467-c75294d911ae.png" group-title="World",A News
